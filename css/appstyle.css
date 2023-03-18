@@ -1,19 +1,19 @@
   
-  /* CSS sheet using flexbox -> https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+  /* CSS sheet using flexbox -> https://css-tricks.com/snippets/css/a-guide-to-flexbox/ as recommended by my partner */
 
-  
+    /*black background*/
   html, body {
   height:99%;
   width:99.45%;
   background-color: #000000;
   }
-  
+
 
   .container {
     display: flex;
     flex-direction: column;
     height: 100%; /* vh -> 100% of the height */
-    background-color: antiquewhite;
+    background-color:  #eee5d9;
   }
 
 
@@ -36,14 +36,18 @@
       text-decoration: none;
     }
 
+  footer {
+    display:flex;
+    align-items: center;
+    background-color:  #eee4d8;
+  }
+
 
   .mainbody {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    align-self: auto;
     justify-content: flex-start;
-    flex-grow: 1;
     background-color: #eee5d9;
     padding: 0px 30px;
     font-family: Verdana;
@@ -58,23 +62,60 @@
     font-weight: bold;
   }
 
-  /* Define the navigation links */
-  .nav-links {
-    display: flex;
-    justify-content: space-evenly;
-    width: 450px;
-  }
+  /*Navigation links */
 
-  /* Define the link style */
-  .nav-links a {
-    color: #fff;
-    text-decoration: none;
-    margin-right: 30px;
-  }
+      .nav-links {
+        display: flex;
+        justify-content: space-evenly;
+        width: 450px;
+      }
+
+      .nav-links a {
+        color: #ffffff;
+        text-decoration: none;
+        margin-right: 30px;
+      }
+
+
+  /* Main datastory classes */
+
+      .maindiv-header {
+        background-color: #eeca9f;
+        padding: 0px 20px 0px;
+        width: 60%;
+        margin-top: 20px;
+        text-align: center;   
+        align-items: center; 
+        align-self: center;
+        
+      }
+
+      .maindiv {
+        background-color: #ebddcc;
+        padding: 0px 20px 0px;
+        width:60%;
+        margin-bottom: 10px;
+        text-align: center;   
+        align-items: center; 
+        align-self: center;
+        
+      }
+
+      .maindiv pre {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }z
+
+
+      .maindiv a {
+        color: rgb(189, 35, 35);
+      }
 
 
 
-  /*landing page classes*/
+
+
+
+  /*Landing page classes*/
 
         .intromsg {
           font-size: 64px ;
@@ -98,5 +139,33 @@
           position: 150px;
         }
 
+  /*Diary Classes */
+
+      .subdiv-header {
+        display: flex;
+        background-color: #cead85;
+        padding: 0px 20px 0px;
+        width: 97.5%;
+        margin-top: 20px;
+        
+        
+      }
+
+      .subdiv {
+        background-color: #ecc698;
+        padding: 0px 20px 0px;
+        width: 97.5%;
+        margin-bottom: 10px;
+        
+      }
+
+      .subdiv pre {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+
+
+      .subdiv a {
+        color: rgb(189, 35, 35);
+      }
 
 
