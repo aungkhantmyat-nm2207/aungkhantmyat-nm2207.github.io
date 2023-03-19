@@ -110,7 +110,19 @@
         color: rgb(189, 35, 35);
       }
 
+  /* Main Quiz Classes */
 
+  .quiz .option {
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid gray;
+    border-radius: 30px;
+  }
+  
+  .quiz .option:hover {
+    background-color: rgb(245, 143, 75);
+  }
 
 
 
@@ -168,4 +180,4 @@
         color: rgb(189, 35, 35);
       }
 
-
+    
