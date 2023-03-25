@@ -42,6 +42,61 @@
                 </p>
               
             </div>
+
+
+            <!-- How does the game work? -->
+            <div class="maindiv-header">
+              <h1> How does the game work? </h1>
+            </div>
+
+              <div class="maindiv">
+                <p> Interactive Animation / Gif on quick explanation of the game? </p>
+              </div>
+
+
+          <!-- Quiz # 1 -->
+          <div class="maindiv-header">
+            <h1> Quiz #1 </h1>
+          </div>
+          
+          <div class="maindiv">
+            <div class="quiz">
+              <h2>Which country has Survivor filmed most Seasons in?</h2>
+              <div id="quiz1-Option1" class="option">Brazil</div>
+              <div id="quiz1-Option2" class="option">Fiji</div>
+              <div id="quiz1-Option3" class="option">Philippines</div>
+              <div id="quiz1-Option4" class="option">Indonesia</div>
+              <p id="result1"></p>
+              </div>
+          </div>
+
+           <!-- Location of where the shows has filemd-->
+          
+         
+           <div class="maindiv-header">
+            <h1> Where has the show filmed? </h1>
+          </div>
+          
+          
+          <div class="maindiv">
+            World map with different locations -> click -> detail locations
+          </div>
+          
+          <!-- Location of Contestants -->
+            
+           
+          <div class="maindiv-header">
+            <h1> Where are the contestants from? </h1>
+          </div>
+          
+          
+          <div class="maindiv">
+            <iframe title="Where are the contestants from?" aria-label="Map" id="datawrapper-chart-OIyG3" src="https://datawrapper.dwcdn.net/OIyG3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="456" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+            </script>
+            I need to figure out how to make the data show up 
+          </div>
+
+
             <!-- Viewership -->
             <div class="maindiv-header">
               <h1> Survivor's Viewership and Rating across its 43 season run </h1>
@@ -62,102 +117,50 @@
                 </div>
 
                   <div class="maindiv">
-                  <p> 
-                    Placeholder - extract data for each individual episodes with listing top 10 (?) episodes with highest rating -> Can mention why they are high
-                   </p>
+                    <div id="canvas-container"> 
+                      <canvas id="topEpisodesRating" width="1000" height="500"></canvas>
+                      <p> To Do : Add custom tooltip that links back to IMDB page of each episode</p>
                   </div>
+                </div>
+
+
+            <!-- Seasons with highest average rating -->
+            <div class="maindiv-header">
+              <h1> Which Seasons to watch? </h1>
+            </div>
+
+              <div class="maindiv">
+                <div id="canvas-container"> 
+                  <canvas id="seasonRanking" width="1000" height="500"></canvas>
+                  <p> Although Survivor Cambodia and Winners at War are rated the most highest seasons, they are both returnee seasons and therefore not suitable for first time viewing. Pearl Islands and Cagayan are therefore recommended for new viewers</p>
+                  <p> To Do : Add custom legend showing that Red border -> Returnee season, Green -> Newbie season</p>
+              </div>
+            </div>
+
+
+            <!-- Analysing Survivor Cambodia and Winners at War -->
+            <div class="maindiv-header">
+              <h1> Survivor Winners at War : Which seasons did the winners play together in </h1>
+            </div>
+
+              <div class="maindiv">
+                <div id="canvas-container"> 
+                  <p> Survivor 40: Winners at War was unique as the previous winners were invited to play again</p>
+                  <p> Many of the winners have played together before in different seasons so I want to use <a href = https://d3-graph-gallery.com/bundle.html style="color:red"> Hierarchical edge bundling</a> to showcase that </p>
+                  <p> Example placeholder image : </p><img src="https://d3-graph-gallery.com/img/graph/hierarchical_edge_bundling_basic.png">
+              </div>
+            </div>
+    
     
       
   
-            <!-- Quiz # 1 -->
-            <div class="maindiv-header">
-              <h1> Quiz #1 </h1>
-            </div>
             
-            <div class="maindiv">
-              <div class="quiz">
-                <h2>Which country has Survivor filmed most Seasons in?</h2>
-                <div id="quiz1-Option1" class="option">Brazil</div>
-                <div id="quiz1-Option2" class="option">Fiji</div>
-                <div id="quiz1-Option3" class="option">Philippines</div>
-                <div id="quiz1-Option4" class="option">Indonesia</div>
-                <p id="result1"></p>
-                </div>
-            </div>
-
-             <!-- Location of where the shows has filemd-->
-            
-           
-             <div class="maindiv-header">
-              <h1> Where has the show filmed? </h1>
-            </div>
-            
-            
-            <div class="maindiv">
-              World map with different locations -> click -> detail locations
-            </div>
 
 
 
 
-            <!-- Location of Contestants -->
             
-           
-              <div class="maindiv-header">
-                <h1> Where are the contestants from? </h1>
-              </div>
-              
-              
-              <div class="maindiv">
-                <iframe title="Where are the contestants from?" aria-label="Map" id="datawrapper-chart-OIyG3" src="https://datawrapper.dwcdn.net/OIyG3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="456" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-                </script>
-                I need to figure out how to make the data show up 
-              </div>
 
-
-            <!-- Types of chellenges -->
-            
-            <div class="maindiv-header">
-              <h1> What are the most popular challenges of Survivor? </h1>
-            </div>
-            
-            
-            <div class="maindiv">
-              Piechart of the popular challenges
-            </div>
-
-            
-            <!-- Immunity Idols -->
-            
-            <div class="maindiv-header">
-              <h1> What is the trend of Immunity Idols in Survivor </h1>
-            </div>
-            
-            
-            <div class="maindiv">
-              Stacked bar chart with various type of immunity idols + successful/uncessful plays + fake idols -> need to figure out how to do 
-            </div>
-
-            <!-- Quiz 2-->
-
-            <div class="maindiv-header">
-              <h1> Who played the most idols? </h1>
-            </div>
-            
-            
-            <div class="maindiv">
-              Quiz on who played the most idols -> barchart of top 10 players with most succesful idol plays?
-            </div>
-            
-            <!-- Men vs Women Immunity Idols -->
-            <div class="maindiv-header">
-              <h1> What are the trend of men and women finding idols </h1>
-            </div>
-            
-            
-            <div class="maindiv">
-              Line graph?
-            </div>
 
             <!-- Overall performance of the game -->
             <div class="maindiv-header">
