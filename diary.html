@@ -26,6 +26,47 @@
 
 
           <div class="mainbody">
+
+            <div class="subdiv-header">
+              <h3> Week 11 : Project Update (Updated : 1/4/2023) </h3>
+             
+              </div>
+
+            <div class="subdiv">
+              <h3> Week 11 Diary Entry </h3>
+              <p><strong>The data of my project and the visualizations I plan to use</strong><br><br>
+                  The data I will be using is primiarly from <a href="https://github.com/doehm/survivoR"> this github page. </a> The data is in .rda format and I will using RStudio to convert them into .csv files as I am not experienced in handling R files. 
+                  This is done through the use of write.csv() command in RStudio that I learnt through <a href="https://www.youtube.com/watch?v=-MIh4ZrgeKg">this video</a>.<br>
+                  Additional data, if needed, would be retrived and keyed in manually from the <a href="https://survivor.fandom.com/wiki/Main_Page"> Survivor Wiki Page</a>.<br><br>
+                  To start the data story off, I would be attempting to use animation to show the general flow of the gameplay through <a href="https://plotly.com/javascript/animations/">Plotly Animations</a><br>
+                  <br>
+                  The data for where the show has been filmed is not in the R data so I will be using the Survivor wiki for the data. In terms of visualisations, I will be using <a href="https://plotly.com/javascript/choropleth-maps/"> plotly choropleth maps </a>
+                  to show both the locations of where the show has filmed (World Map) and where the contestants are from (US's map). <br><br>
+                  In terms of the viewership and rating of the show, I will primiarly be using viewers.rda for my data source (which is then converted to viewers.csv).
+                  For visualisations of data for the viewership and rating, I will first make 2 line graphs showcasing the change in viewership with the change in show's rating over the period of the entire run of the show.
+                  <br><br>
+                  Then, the trends of the shows will be similarly be shown through simple bar and line charts, possibly through plotly.
+                  <br><br>
+                  Afterwards, episodes and seasons with the highest ratings will be highlighted as a way to guide the new viewer to choose which season to watch first. This is done through the use of barcharts. 
+                  I plan to add custom events to each barchart that will give a synopsis of the episode / season but I am struggling to find a method for it through chart.js so I might shift this over to plotly if need be. <br><br>
+                  I also want to highlight Season 40 of the show : Winners at War, as it is the season with all winners of previous seasons playing so I want to use an interactive method to showcase the relationship between those winners and the seasons they have played together in.
+                  For the visualisation of this component, I found a method called <a href="https://www.youtube.com/watch?v=y2-sgZh49dQ">force directed graph </a>that I feel would be suitable for this.  <br><br>
+
+
+
+                
+                 <strong>Errors and challenges: </strong><br><br>
+                 In terms of the plotly map, I am struggling to put in the data according to what the plotly website has shown as I don't know how to upload the .csv files and hence retrive using d3.csv method.
+                 <br><br>
+                 I am also still struggling to make my line graph on Viewership vs Rating to have mixed y axis.
+                 <br>
+                 The force directed graph also seems to be qutie complex so I would need to dedicate quite a bit of time for that after I learn d3.js in week 12.
+
+                 
+                </p>
+            </div>
+
+
             <div class="subdiv-header">
               <h3> Week 10 : Project Update (Updated : 25/3/2023) </h3>
              

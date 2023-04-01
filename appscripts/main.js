@@ -378,6 +378,18 @@ const borderColor2 = [
                             ]
                         },
 
+
+                        scales: {
+                            xAxes: [
+                                {
+                                    ticks : {
+                                        autoSkip: false,
+                                        offset: true,
+                                    }
+                                }
+                            ]
+                        },
+
                         title :{
                             display: true,
                             text: ["Top 5 Seasons According to IMDB"],

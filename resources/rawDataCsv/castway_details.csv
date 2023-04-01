@@ -1,0 +1,960 @@
+"","castaway_id","full_name","castaway","date_of_birth","date_of_death","gender","race","ethnicity","poc","occupation","personality_type"
+"1","AU0001","Des Quilty","Des",NA,NA,"Male",NA,NA,NA,"Courier Driver",NA
+"2","AU0002","Bianca Anderson","Bianca",NA,NA,"Female",NA,NA,NA,"Private Investigator",NA
+"3","AU0003","Evan Jones","Evan",NA,NA,"Male",NA,NA,NA,"High School Teacher",NA
+"4","AU0004","Peter Fiegehen","Peter",NA,NA,"Male",NA,NA,NA,"Air Traffic Controller",NA
+"5","AU0005","Barry Lea","Barry",NA,NA,"Male",NA,"Aboriginal or Torres Strait Islander",NA,"Former Pro-Rugby Player",NA
+"6","AU0006","Tegan Haining","Tegan",NA,NA,"Female",NA,NA,NA,"Personal Trainer",NA
+"7","AU0007","Rohan MacLauren","Rohan",NA,NA,"Male",NA,NA,NA,"Model",NA
+"8","AU0008","Kat Dumont","Katinka",1989-09-21,NA,"Female",NA,NA,NA,"Partnerships and Brand Manager",NA
+"9","AU0009","Andrew Torrens","Andrew",NA,NA,"Male",NA,NA,NA,"Marketing Expert",NA
+"10","AU0010","Craig I'Anson","Craig",NA,NA,"Male",NA,NA,NA,"Recruitment Officer",NA
+"11","AU0011","Phoebe Timmins","Phoebe",1988-12-04,NA,"Female",NA,NA,NA,"Criminal Lawyer",NA
+"12","AU0012","Conner Bethune","Conner",NA,NA,"Male",NA,NA,NA,"Law Student",NA
+"13","AU0013","Kate Campbell","Kate",NA,NA,"Female",NA,NA,NA,"Financial Analyst",NA
+"14","AU0014","Nick Iadanza","Nick",1988-05-20,NA,"Male",NA,NA,NA,"High School Teacher",NA
+"15","AU0015","Kylie Evans","Kylie",1978-04-27,NA,"Female",NA,NA,NA,"Firefighter",NA
+"16","AU0016","Sue Clark","Sue",NA,NA,"Female",NA,NA,NA,"Personal Trainer",NA
+"17","AU0017","Jennah-Louise Salkeld","Jennah-Louise",NA,NA,"Female",NA,NA,NA,"Law Graduate",NA
+"18","AU0018","Brooke Jowett","Brooke",1993-02-25,NA,"Female",NA,NA,NA,"Sales Executive",NA
+"19","AU0019","Sam Webb","Sam",1988-05-30,NA,"Male",NA,NA,NA,"Charity CEO",NA
+"20","AU0020","Matt Tarrant","Matt",NA,NA,"Male",NA,NA,NA,"Magician",NA
+"21","AU0021","Felicity Egginton","Flick",1992-12-15,NA,"Female",NA,NA,NA,"Personal Assistant",NA
+"22","AU0022","Elena Rowland","El",NA,NA,"Female",NA,NA,NA,"Army Corporal",NA
+"23","AU0023","Lee Carseldine","Lee",NA,NA,"Male",NA,NA,NA,"Former Pro-Cricketer",NA
+"24","AU0024","Kristie Bennet","Kristie",1991-12-15,NA,"Female",NA,NA,NA,"Senior Account Executive",NA
+"25","AU0025","Joan Caballero","Joan",NA,NA,"Female",NA,NA,NA,"Escape Room Owner",NA
+"26","AU0026","Adam Parkin","Adam",NA,NA,"Male",NA,NA,NA,"Pro Poker Player",NA
+"27","AU0027","Kate Temby","Kate",NA,NA,"Female",NA,NA,NA,"Financial Executive",NA
+"28","AU0028","Mark Herlaar","Tarzan",NA,NA,"Male",NA,NA,NA,"Lime Farmer",NA
+"29","AU0029","Aimee Stanton","Aimee",NA,NA,"Female",NA,NA,NA,"Plumber",NA
+"30","AU0030","Samantha Gash","Sam",1984-10-14,NA,"Female",NA,NA,NA,"Endurance Athlete","ENFJ"
+"31","AU0031","Mark Wales","Mark",NA,NA,"Male",NA,NA,NA,"Former SAS","ESTJ"
+"32","AU0032","Jacqui Patterson","Jacqui",NA,NA,"Female",NA,NA,NA,"Wedding Celebrant",NA
+"33","AU0033","Kent Nelson","Kent",NA,NA,"Male",NA,NA,NA,"Chief Financial Officer",NA
+"34","AU0034","Aaron Knight","AK",NA,NA,"Male",NA,NA,NA,"Wedding DJ",NA
+"35","AU0035","Ben Morgan","Ben",NA,NA,"Male",NA,NA,NA,"Fast Food Attendant",NA
+"36","AU0036","Odette Blacklock","Odette",NA,NA,"Female",NA,NA,NA,"Podiatrist",NA
+"37","AU0037","Jarrad Seng","Jarrad",1988-02-02,NA,"Male","Asian","Malaysian/Chinese",NA,"Photographer",NA
+"38","AU0038","Anneliese Wilson","Anneliese",NA,NA,"Female",NA,NA,NA,"Student",NA
+"39","AU0039","Henry Nicholson","Henry",NA,NA,"Male",NA,NA,NA,"Labourer",NA
+"40","AU0040","Tessa O'Halloran","Tessa",NA,NA,"Female",NA,NA,NA,"Doctor",NA
+"41","AU0041","Sarah Tilleke","Sarah",NA,NA,"Female",NA,NA,NA,"Model",NA
+"42","AU0042","Luke Toki","Luke",NA,NA,"Male",NA,NA,NA,"Mining Technician",NA
+"43","AU0043","Nicola Zagame","Ziggy",1990-08-11,NA,"Female",NA,NA,NA,"Olympian",NA
+"44","AU0044","Locklan Gilbert","Locky",NA,NA,"Male",NA,NA,NA,"Adventure Guide",NA
+"45","AU0045","Michelle Dougan","Michelle",NA,NA,"Female",NA,NA,NA,"Nanny",NA
+"46","AU0046","Peter Conte","Peter",NA,NA,"Male",NA,NA,NA,"Digital Advertising Producer",NA
+"47","AU0047","Tara Pitt","Tara",NA,NA,"Female",NA,NA,NA,"Barrel Racer",NA
+"48","AU0048","Jericho Malabonga","Jericho",NA,NA,"Male",NA,NA,NA,"Flight Attendant",NA
+"49","AU0049","Matthew Dyson","Matt",NA,NA,"Male",NA,NA,NA,"Traffice Police Officer",NA
+"50","AU0050","Damien Thomlinson","Damien",NA,NA,"Male",NA,NA,NA,"Former Special Forces Commando",NA
+"51","AU0051","Steve Khouw","Steve K.",NA,NA,"Male",NA,NA,NA,"Takeaway Delivery Rider",NA
+"52","AU0052","Jenna Austin","Jenna",NA,NA,"Female",NA,NA,NA,"FIFO Worker",NA
+"53","AU0053","Moana Hope","Moana",1988-02-14,NA,"Female",NA,NA,NA,"AFLW Player",NA
+"54","AU0054","Tegan Gasior","Tegan",NA,NA,"Female",NA,NA,NA,"Managing Consultant",NA
+"55","AU0055","Anita Berkett","Anita",NA,NA,"Female",NA,NA,NA,"Sales Rep",NA
+"56","AU0056","Zach Kozyrski","Zach",1979-01-28,NA,"Male",NA,NA,NA,"Personal Trainer",NA
+"57","AU0057","Paige Kerin","Paige",NA,NA,"Female",NA,NA,NA,"Marketing Coordinator",NA
+"58","AU0058","Jackie Glazier","Jackie",1973-11-28,NA,"Female",NA,NA,NA,"World Series Poker Player",NA
+"59","AU0059","Heath Davies","Heath",NA,NA,"Male",NA,NA,NA,"Builder",NA
+"60","AU0060","Lydia Lassila","Lydia",NA,NA,"Female",NA,NA,NA,"Olympic Freestyle Skier",NA
+"61","AU0061","Robbie Skibicki","Robbie",NA,NA,"Male",NA,NA,NA,"Construction Manager",NA
+"62","AU0062","Samuel Hinton","Samuel",NA,NA,"Male",NA,NA,NA,"Astrophysicist",NA
+"63","AU0063","Mat Rogers","Mat",1976-02-01,NA,"Male",NA,NA,NA,"Duel Code Football Legend",NA
+"64","AU0064","Benji Wilson","Benji",NA,NA,"Male",NA,NA,NA,"Entrepreneur",NA
+"65","AU0065","Steve Willis","Steve W.",1976-06-05,NA,"Male",NA,NA,NA,"Fitness Specialist",NA
+"66","AU0066","Fenella McGowan","Fenella",NA,NA,"Female",NA,NA,NA,"Interior Designer",NA
+"67","AU0067","Monika Radulovic","Monika",1990-09-21,NA,"Female",NA,NA,NA,"Miss Australia 2015",NA
+"68","AU0068","Shonee Fairfax","Shonee",1992-04-26,NA,"Female",NA,NA,NA,"Personal Assistant",NA
+"69","AU0069","Brian Lake","Brian",1982-02-27,NA,"Male",NA,NA,NA,"Former AFL Star",NA
+"70","AU0070","Sharn Coombes","Sharn",NA,NA,"Female",NA,NA,NA,"Criminal Barrister",NA
+"71","AU0071","Shane Gould","Shane",1956-11-23,NA,"Female",NA,NA,NA,"Olympic Swimming Legend",NA
+"72","AU0072","Anastasia Woolmer","Anastasia",NA,NA,"Female",NA,NA,NA,"Memory Champion",NA
+"73","AU0073","Laura Choong","Laura",NA,NA,"Female","Asian",NA,NA,"Digital Marketing Manager",NA
+"74","AU0074","Susie Maroney","Susie",1974-11-15,NA,"Female",NA,NA,NA,"Marathon Swimmer",NA
+"75","AU0075","Nova Peris","Nova",1971-02-25,NA,"Female","Aboriginal or Torres Strait Islander",NA,NA,"Former Politician/Olympian",NA
+"76","AU0076","Steven Bradbury","Steven",1973-10-14,NA,"Male",NA,NA,NA,"Olympic Gold Medalist",NA
+"77","AU0077","Andrew Ettingshausen","ET",1965-10-29,NA,"Male",NA,NA,NA,"NRL Legend",NA
+"78","AU0078","Sam Schoers","Sam",NA,NA,"Female",NA,NA,NA,"VIP Gaming Manager",NA
+"79","AU0079","Sarah Ayles","Sarah",NA,NA,"Female",NA,NA,NA,"Cleaner",NA
+"80","AU0080","Hannah Pentreath","Hannah",NA,NA,"Female",NA,NA,NA,"Police Officer",NA
+"81","AU0081","Casey Hawkins","Casey",NA,NA,"Female",NA,NA,NA,"Educator",NA
+"82","AU0082","Matt Farrelly","Matt",1990-03-21,NA,"Female",NA,NA,NA,"High School Teacher/Pro Wrestler",NA
+"83","AU0083","Ross Clarke-Jones","Ross",1966-06-06,NA,"Male",NA,NA,NA,"Big Wave Surfer",NA
+"84","AU0084","Andy Meldrum","Andy",NA,NA,"Male",NA,NA,NA,"Marketing Executive",NA
+"85","AU0085","Shaun Hampson","Shaun",1988-03-21,NA,"Male",NA,NA,NA,"Retired AFL Player",NA
+"86","AU0086","David Genat","David",NA,NA,"Male",NA,NA,NA,"International Model",NA
+"87","AU0087","John Eastoe","John",NA,NA,"Male",NA,NA,NA,"Gold Miner",NA
+"88","AU0088","Daisy Richardson","Daisy",NA,NA,"Female",NA,NA,NA,"Travel Agent",NA
+"89","AU0089","Simon Black","Simon",1979-04-03,NA,"Male",NA,NA,NA,"AFL Superstar",NA
+"90","AU0090","Janine Allis","Janine",NA,NA,"Female",NA,NA,NA,"CEO Powerhouse",NA
+"91","AU0091","Abbey Holmes","Abbey",1991-01-07,NA,"Female",NA,NA,NA,"AFL Premiership Winner",NA
+"92","AU0092","Harry Hills","Harry",NA,NA,"Male",NA,NA,NA,"Ice Cream Maker",NA
+"93","AU0093","Baden Gilbert","Baden",NA,NA,"Male",NA,NA,NA,"Student",NA
+"94","AU0094","Pia Miranda","Pia",1973-06-15,NA,"Female",NA,NA,NA,"Leading Actor",NA
+"95","AU0096","Phil Ferguson","Phil",NA,NA,"Non-binary",NA,NA,NA,"Artist",NA
+"96","AU0097","Janelle Durso","Janelle",NA,NA,"Female",NA,NA,NA,"Cleaner",NA
+"97","AU0098","Gavin Wanganeen","Gavin",1973-06-18,NA,"Male","Aboriginal or Torres Strait Islander",NA,NA,"AFL legend",NA
+"98","AU0099","Binyamin Burdo","Benny",NA,NA,"Male",NA,NA,NA,"Entrepreneur",NA
+"99","AU0100","Mitchell Shaw","Mitch",NA,NA,"Male",NA,NA,NA,"Doctor",NA
+"100","AU0101","Joey McCann","Joey",NA,NA,"Male",NA,NA,NA,"Head of Partnerships",NA
+"101","AU0102","Daini Tuiqere","Daini",NA,NA,"Male","Fijian and Maori",NA,NA,"Personal Trainer",NA
+"102","AU0103","Shannon Lawson","Shannon",NA,NA,"Female",NA,NA,NA,"Model",NA
+"103","AU0104","Georgia Ray","Georgia",NA,NA,"Female",NA,NA,NA,"Forensic Psychologist",NA
+"104","AU0105","Rachel Downie","Rachel",NA,NA,"Female",NA,NA,NA,"Teacher/Businesswoman",NA
+"105","AU0106","Simon Mee","Simon",NA,NA,"Male",NA,NA,NA,"Carpenter",NA
+"106","AU0107","Kerryn McGee","Kez",NA,NA,"Female",NA,NA,NA,"Bodybuilder",NA
+"107","AU0108","Chelsea Hackett","Chelsea",1999-10-29,NA,"Female",NA,NA,NA,"MMA Figher",NA
+"108","AU0109","Baden Cooke","Baden",NA,NA,"Male",NA,NA,NA,"Ex-Pro Cyclist",NA
+"109","AU0110","Gerald Youles","Gerald",NA,NA,"Male",NA,NA,NA,"Champion Wood Chopper",NA
+"110","AU0111","Laura Wells","Laura",NA,NA,"Female",NA,NA,NA,"Environmental Advocate",NA
+"111","AU0112","Emmett Pugh","Emmett",NA,NA,"Male",NA,NA,NA,"Health Coach",NA
+"112","AU0113","Andrew Ucles","Andrew",NA,NA,"Male",NA,NA,NA,"Survival Expert",NA
+"113","AU0114","Dani Beale","Dani",NA,NA,"Female",NA,NA,NA,"Corrections Officer",NA
+"114","AU0115","Wai Chim","Wai",1982-12-13,NA,"Female","Chinese-American",NA,NA,"Author",NA
+"115","AU0116","Cara Atchison","Cara",NA,NA,"Female",NA,NA,NA,"Real Estate Agent",NA
+"116","AU0117","Felicity Palmateer","Flick",1992-08-04,NA,"Female",NA,NA,NA,"Big Wave Surfer",NA
+"117","AU0118","George Mladenov","George",NA,NA,"Male",NA,NA,NA,"Public Surfer",NA
+"118","AU0119","Hayley Leake","Hayley",NA,NA,"Female",NA,NA,NA,"Pain Researcher",NA
+"119","AU0120","Amy Ong","Amy",NA,NA,"Female",NA,NA,NA,NA,"INFJ"
+"120","AU0121","Ben Watson","Ben",NA,NA,"Male",NA,NA,NA,NA,"ISTP"
+"121","AU0122","Croc Crocker","Croc",NA,NA,"Male",NA,NA,NA,NA,NA
+"122","AU0123","David Goodchild","David",NA,NA,"Male",NA,NA,NA,NA,NA
+"123","AU0124","Jay Bruno","Jay",NA,NA,"Male",NA,NA,NA,NA,NA
+"124","AU0125","Jesse Hansen","Jesse",NA,NA,"Male",NA,NA,NA,NA,"ISFJ"
+"125","AU0126","Jordan Schmidt","Jordan",NA,NA,"Male",NA,NA,NA,NA,"ISTP"
+"126","AU0127","Kate Tatham","Kate",NA,NA,"Female",NA,NA,NA,NA,NA
+"127","AU0128","Michelle Chiang","Michelle",NA,NA,"Female",NA,NA,NA,NA,NA
+"128","AU0129","Sophie Cachia","Sophie",NA,NA,"Female",NA,NA,NA,NA,"ENTJ"
+"129","AU0130","Alex Frost","Alex",NA,NA,"Male",NA,NA,NA,NA,"INFP"
+"130","AU0131","Briana Goodchild","Briana",NA,NA,"Female",NA,NA,NA,NA,"ESFP"
+"131","AU0132","Chrissy Zaremba","Chrissy",NA,NA,"Female",NA,NA,NA,NA,NA
+"132","AU0133","Jordie Hansen","Jordie",NA,NA,"Male",NA,NA,NA,NA,"ESFP"
+"133","AU0134","Josh Millgate","Josh",NA,NA,"Male",NA,NA,NA,NA,"ISTJ"
+"134","AU0135","Khanh Ong","Khanh",NA,NA,"Male",NA,NA,NA,NA,"ENFP"
+"135","AU0136","Kate Austin","KJ",NA,NA,"Female",NA,NA,NA,NA,"ISFJ"
+"136","AU0137","Mel Chiang","Mel",NA,NA,"Female",NA,NA,NA,NA,NA
+"137","AU0138","Nina Twine","Nina",1997-06-16,NA,"Female",NA,NA,NA,NA,NA
+"138","AU0139","Shayelle Lajoie","Shay",NA,NA,"Female",NA,NA,NA,NA,"ISFP"
+"139","AU0140","Anjali Rao","Anjali",NA,NA,"Female",NA,NA,NA,"Broadcaster",NA
+"140","AU0141","Benjamin Law","Ben",NA,NA,"Male","Asian",NA,NA,"Author",NA
+"141","AU0142","David Zaharakis","David",1990-02-21,NA,"Male",NA,NA,NA,"Former AFL Player",NA
+"142","AU0143","Fraser Lack","Fraser",NA,NA,"Male",NA,NA,NA,"Real Estate Agent",NA
+"143","AU0144","Gerry Geltch","Gerry",1960-10-18,NA,"Male",NA,NA,NA,"Tourism Pilot",NA
+"144","AU0145","Liz Parnov","Liz",1994-05-09,NA,"Female",NA,NA,NA,"Olympic Pole-vaulter",NA
+"145","AU0146","Matt Sharp","Matt",NA,NA,"Male",NA,NA,NA,"Lifeguard",NA
+"146","AU0147","Michael Warren","Michael",NA,NA,"Male",NA,NA,NA,"Journalist",NA
+"147","AU0148","Mimi Tang","Mimi",NA,NA,"Female","Asian",NA,NA,"Luxury Car PR Manager",NA
+"148","AU0149","Paige Donald","Paige",NA,NA,"Female",NA,NA,NA,"Outback Jillaroo",NA
+"149","AU0150","Rogue Rubin","Rogue",NA,NA,"Female",NA,NA,NA,"Film Director",NA
+"150","AU0151","Sarah Marschke","Sarah",NA,NA,"Female",NA,NA,NA,"Former Miss World Australia",NA
+"151","AU0152","Sharni Vinson","Sharni",1983-07-22,NA,"Female",NA,NA,NA,"Actress",NA
+"152","NZ0001","Hannah Gough","Hannah",NA,NA,"Female",NA,NA,NA,"Kindergarten Teacher",NA
+"153","NZ0002","Deanna Cambioso","Dee",NA,NA,"Female","European/Chilean",NA,NA,"Customer Service Representative",NA
+"154","NZ0003","Anthony Deane","Tony",NA,NA,"Male",NA,NA,NA,"Army Veteran",NA
+"155","NZ0004","Isabel Pearson","Izzy",NA,NA,"Female",NA,NA,NA,"Oil Rig Steward",NA
+"156","NZ0005","Louisa McClintock","Lou",NA,NA,"Female",NA,NA,NA,"Farmer",NA
+"157","NZ0006","Georgia Bergerson","Georgia",NA,NA,"Female",NA,NA,NA,"Singer/Dancer",NA
+"158","NZ0007","Shayna Swain-Tapusoa","Shay",NA,NA,"Female","Samoan",NA,NA,"Business Support Coordinator",NA
+"159","NZ0008","Leandro Den Haan","Lee",NA,NA,"Male","Dutch/Filipino",NA,NA,"Canyoning Guide",NA
+"160","NZ0009","Michael Sparrow","Mike",NA,NA,"Male",NA,NA,NA,"Business Analyst",NA
+"161","NZ0010","Matai'a Salatielu Tiatia","Sala",NA,NA,"Male","Samoan",NA,NA,"Youth Worker",NA
+"162","NZ0011","Jakob Thomas","Jak",NA,NA,"Male",NA,NA,NA,"Banking Consultant",NA
+"163","NZ0012","Shannon Quinn","Shannon",NA,NA,"Female","European/Maori",NA,NA,"Zookeeper",NA
+"164","NZ0013","Nathan Davis","Nate",NA,NA,"Male","Maori",NA,NA,"Senior Police Sergeant",NA
+"165","NZ0014","Barbara Raos","Barb",NA,NA,"Female",NA,NA,NA,"Mother",NA
+"166","NZ0015","Thomas Paterson","Tom",NA,NA,"Male","Maori",NA,NA,"Teacher",NA
+"167","NZ0016","Avi Duckor-Jones","Avi",NA,NA,"Male",NA,NA,NA,"Youth Expedition Leader",NA
+"168","SA0001","Don Soper","Don",1951-12-22,NA,"Male",NA,NA,NA,"Businessman",NA
+"169","SA0002","Sam Allerton","Sam",1976-12-08,NA,"Male",NA,NA,NA,"Sculptor",NA
+"170","SA0003","Jude Wilken","Jude",1967-12-16,NA,"Female",NA,NA,NA,"Hostage Negotiator",NA
+"171","SA0004","Ncumisa Ngcaweni","Ncumisa",1976-12-01,NA,"Female",NA,NA,NA,"Skills Trainer",NA
+"172","SA0005","Sanele Gumede","Sanele",1979-12-01,NA,"Male",NA,NA,NA,"Brand Manager",NA
+"173","SA0006","Danielle Vukic","Danielle",1971-12-26,NA,"Female",NA,NA,NA,"Fashion Producer",NA
+"174","SA0007","Nico Hinis","Nico",1963-12-14,NA,"Male",NA,NA,NA,"Restauranteur",NA
+"175","SA0008","Brigitte Willers","Brigitte",1980-12-17,NA,"Female",NA,NA,NA,"Sports Model",NA
+"176","SA0009","Mzi Tyhokolo","Mzi",1975-12-16,NA,"Male",NA,NA,NA,"Energy Advisor",NA
+"177","SA0010","Vanessa Marawa","Vanessa",1979-12-18,NA,"Female",NA,NA,NA,"Estate Agent",NA
+"178","SA0011","Lezel Crook","Lezel",1978-12-03,NA,"Female",NA,NA,NA,"Attorney",NA
+"179","SA0012","Gareth Tjasink","Gareth",1979-12-05,NA,"Male",NA,NA,NA,"Medical Doctor",NA
+"180","SA0013","Zayn Nabbi","Zayn",1982-12-04,NA,"Male",NA,NA,NA,"Journalist",NA
+"181","SA0014","Jacinda Louw","Jacinda",1981-12-04,NA,"Female",NA,NA,NA,"Entrepreneur",NA
+"182","SA0015","Nomfundo Vilokazi","Nomfundo",1980-05-03,NA,"Female",NA,NA,NA,"Chemical Engineer",NA
+"183","SA0016","Nicola Windt","Nicola",1970-06-12,NA,"Female",NA,NA,NA,"Dairy Farmer",NA
+"184","SA0017","Viwe Soga","Viwe",1983-12-18,NA,"Male",NA,NA,NA,"Candidate Attorney",NA
+"185","SA0018","Elise Smith","Elise",1983-01-18,NA,"Female",NA,NA,NA,"Hotel Manager",NA
+"186","SA0019","Nichal Ramchander","Nichal",1982-03-05,NA,"Male",NA,NA,NA,"Sales and Marketing Manager",NA
+"187","SA0020","Rijesh Govender","Rijesh",1977-06-22,NA,"Male",NA,NA,NA,"Sales Executive",NA
+"188","SA0021","Lisa Atkinson","Lisa",1985-10-21,NA,"Female",NA,NA,NA,"Student",NA
+"189","SA0022","Irshaad Ally","Irshaad",1978-03-01,NA,"Male",NA,NA,NA,"Graphic Designer",NA
+"190","SA0023","Hein Vosloo","Hein",1960-07-02,NA,"Male",NA,NA,NA,"Rural Developer",NA
+"191","SA0024","Dyke Higginson","Dyke",1979-06-11,NA,"Male",NA,NA,NA,"Landscaper",NA
+"192","SA0025","Angela Beck","Angela",1983-11-16,NA,"Female",NA,NA,NA,"Modelling Coach",NA
+"193","SA0026","Angie Bennett","Angie",1977-07-15,NA,"Female",NA,NA,NA,"Boot Camp Instructor",NA
+"194","SA0027","Mandla Mbau","Mandla",1970-09-14,NA,"Male",NA,NA,NA,"Marketing Manager",NA
+"195","SA0028","Amanda Hoosen","Amanda",1977-10-05,NA,"Female",NA,NA,NA,"Head of Internal Audit",NA
+"196","SA0029","Grant Clark","Grant",1972-05-05,NA,"Male",NA,NA,NA,"Martime Lawyer",NA
+"197","SA0030","Lorette Mostert","Lorette",1971-08-21,NA,"Female",NA,NA,NA,"Police Superintendent",NA
+"198","SA0031","Christina Storm","Christina",1974-04-01,NA,"Female",NA,NA,NA,"Actress and Model",NA
+"199","SA0032","Garth Collins","Garth",1967-01-16,NA,"Male",NA,NA,NA,"Actor",NA
+"200","SA0033","Jub Jub Maarohanye","Jub Jub",1980-06-29,NA,"Male",NA,NA,NA,"Musician",NA
+"201","SA0034","Cindy Nell","Cindy",1981-10-01,NA,"Female",NA,NA,NA,"Presenter",NA
+"202","SA0035","Craig Jacobs","Craig",1974-08-21,NA,"Male",NA,NA,NA,"Fashion Designer",NA
+"203","SA0036","Lady Lea Moscou Barrett","Lady Lea",1980-04-21,NA,"Female",NA,NA,NA,"DJ",NA
+"204","SA0037","Darren Maule","Darren",1972-06-09,NA,"Male",NA,NA,NA,"Comedian",NA
+"205","SA0038","Sandi Schultz","Sandi",1964-01-19,NA,"Female",NA,NA,NA,"Actress",NA
+"206","SA0039","Hanna Grobler","Hanna",1982-01-15,NA,"Female",NA,NA,NA,"Actress",NA
+"207","SA0040","Louw Venter","Louw",1975-08-16,NA,"Male",NA,NA,NA,"Actor",NA
+"208","SA0041","Okkert Brits","Okkert",1973-08-22,NA,"Male",NA,NA,NA,"Sportsman",NA
+"209","SA0042","Gys de Villiers","Gys",1960-11-04,NA,"Male",NA,NA,NA,"Actor",NA
+"210","SA0043","Izak Davel","Izak",1983-07-01,NA,"Male",NA,NA,NA,"Actor",NA
+"211","SA0044","Kaseran Pillay","Kaseran",1976-01-05,NA,"Male",NA,NA,NA,"Comedian",NA
+"212","SA0045","Sade Giliberti","Sade",1985-04-17,NA,"Female",NA,NA,NA,"Presenter",NA
+"213","SA0046","ProVerb Thekisho","ProVerb",1981-04-12,NA,"Male",NA,NA,NA,"Recording Artist",NA
+"214","SA0047","Ashley Hayden","Ashley",1967-11-04,NA,"Female",NA,NA,NA,"Presenter",NA
+"215","SA0048","GiGi van Schalkwyk","GiGi",1967-08-28,NA,"Female",NA,NA,NA,"Exotic Dancer",NA
+"216","SA0049","Lukhanyo Nontshinga","Lukhanyo",1983-09-24,NA,"Male",NA,NA,NA,"Pro Rugby Player",NA
+"217","SA0050","Philicity Reeken","Philicity",1979-10-18,NA,"Female",NA,NA,NA,"Actress",NA
+"218","SA0051","Tshepo Maseko","Tshepo",1974-03-07,NA,"Male",NA,NA,NA,"Actor",NA
+"219","SA0052","Tasleem Vally","Tasleem",NA,NA,"Female",NA,NA,NA,"Make-Up Artist",NA
+"220","SA0053","Carmel Fisher","Carmel",1981-07-17,NA,"Female",NA,NA,NA,"Actress",NA
+"221","SA0054","Jacques Terre'Blanche","Jacques",1982-12-01,NA,"Male",NA,NA,NA,"Musician",NA
+"222","SA0055","Sindi Lukhele","Sindi",NA,NA,"Female",NA,NA,NA,"Events Coordinator",NA
+"223","SA0056","Vanessa Haywood","Vanessa",NA,NA,"Female",NA,NA,NA,"Actress",NA
+"224","SA0057","Roxy Burger","Roxy",1986-12-07,NA,"Female",NA,NA,NA,"Presenter",NA
+"225","SA0058","Harry Wiggins","Harry",NA,NA,"Male",NA,NA,NA,"Maths Lecturer",NA
+"226","SA0059","Simon Coetzer","Simon",NA,NA,"Male",NA,NA,NA,"HR Consultant",NA
+"227","SA0060","Malusi Mbambo","Malusi",NA,NA,"Male",NA,NA,NA,"Business Development Consultant",NA
+"228","SA0061","Tejan Pillay","Tejan",NA,NA,"Male",NA,NA,NA,"Engineer",NA
+"229","SA0062","Sean September","Sean",NA,NA,"Male",NA,NA,NA,"Lawyer",NA
+"230","SA0063","Alison de Chazal","Alison",NA,NA,"Female",NA,NA,NA,"Mother",NA
+"231","SA0064","Mxolisi Lokwe","Mxo",NA,NA,"Male",NA,NA,NA,"Musician",NA
+"232","SA0065","Bonnie Henna","Bonnie",1979-03-18,NA,"Female",NA,NA,NA,"Actress",NA
+"233","SA0066","Letshego Moshoeu","Letshego",1984-08-23,NA,"Female",NA,NA,NA,"Biokeniticist",NA
+"234","SA0067","Hykie Berg","Hykie",1978-05-02,NA,"Male",NA,NA,NA,"Actor",NA
+"235","SA0068","Ashleigh Bryant","Ashleigh",NA,NA,"Female",NA,NA,NA,"High School Teacher",NA
+"236","SA0069","Marsha Wessels","Marsha",NA,NA,"Female",NA,NA,NA,"Army Sports Officer",NA
+"237","SA0070","Killarney Jones","Killarney",NA,NA,"Female",NA,NA,NA,"Martial Artist",NA
+"238","SA0071","Zan Lang","Zan",NA,NA,"Male",NA,NA,NA,"Vehicle Salesman",NA
+"239","SA0072","Shona Macdonald","Shona",NA,NA,"Female",NA,NA,NA,"Account Manager",NA
+"240","SA0073","Philip Dickson","Phil",NA,NA,"Male",NA,NA,NA,"Firefighter",NA
+"241","SA0074","Gena Alkana","Gena",NA,NA,"Female",NA,NA,NA,"PR Manager",NA
+"242","SA0075","Sonette Myburgh","Sonette",NA,NA,"Female",NA,NA,NA,"Mortuary Assistant",NA
+"243","SA0076","Stephen Walker","Stephen",NA,NA,"Male",NA,NA,NA,"Business Analyst",NA
+"244","SA0077","Marian de Vos","Marian",NA,NA,"Female",NA,NA,NA,"Entrepreneur",NA
+"245","SA0078","Solly Mathiba","Solly",NA,NA,"Male",NA,NA,NA,"Sports Manager",NA
+"246","SA0079","Moyra Makina","Moyra",NA,NA,"Female",NA,NA,NA,"HR Director",NA
+"247","SA0080","Vel Bodiba","Vel",1987-07-14,NA,"Female",NA,NA,NA,"Actress",NA
+"248","SA0081","Shane Hattingh","Shane",NA,NA,"Male",NA,NA,NA,"Media Salesman",NA
+"249","SA0082","Altaaf Sheik","Altaaf",NA,NA,"Male",NA,NA,NA,"SAAF Helicopter Pilot",NA
+"250","SA0083","Zavion Kotze","Zavion",NA,NA,"Male",NA,NA,NA,"Wedding Planner",NA
+"251","SA0084","David de Wet","David",NA,NA,"Male",NA,NA,NA,"Farrier",NA
+"252","SA0085","Sivu Xabanisa","Sivu",NA,NA,"Male",NA,NA,NA,"Astrophysics Student",NA
+"253","SA0086","Buhle Madlala","Buhle",NA,NA,"Female",NA,NA,NA,"Events Planner",NA
+"254","SA0087","Graham Jenneker","Graham",NA,NA,"Male",NA,NA,NA,"Financial Manager",NA
+"255","SA0088","Seamus Holmes","Seamus",NA,NA,"Male",NA,NA,NA,"Property Broker",NA
+"256","SA0089","Neil Voller","Neil",NA,NA,"Male",NA,NA,NA,"HR Executivee",NA
+"257","SA0090","Stacey-Lee Valentyn","Stacey-Lee",NA,NA,"Female",NA,NA,NA,"Business Analyst",NA
+"258","SA0091","Adrian Chetty","Ace",NA,NA,"Male",NA,NA,NA,"Graphic Designer",NA
+"259","SA0092","Murishca Martheze","Murishca",NA,NA,"Female",NA,NA,NA,"Marketing Manager",NA
+"260","SA0093","Marthunis Oosthuizen","Marthunis",NA,NA,"Male",NA,NA,NA,"Investment Adviser",NA
+"261","SA0094","Tevin Naidu","Tevin",NA,NA,"Male",NA,NA,NA,"Medical Doctor",NA
+"262","SA0095","Josie Eveleigh","Josie",NA,NA,"Female",NA,NA,NA,"Travel Writer",NA
+"263","SA0096","Vusi Mafulela","Vusi",NA,NA,"Male",NA,NA,NA,"Logistics Manager",NA
+"264","SA0097","Chane Mynhardt","Chané",NA,NA,"Female",NA,NA,NA,"Admin Clerk",NA
+"265","SA0098","Palesa Tau","Palesa",NA,NA,"Female",NA,NA,NA,"Radio Presenter",NA
+"266","SA0099","Antoinette Tebbutt","Toni",NA,NA,"Female",NA,NA,NA,"Content Developer",NA
+"267","SA0100","Pheko Phetoe","PK",NA,NA,"Male",NA,NA,NA,"Mining Technician",NA
+"268","SA0101","Katinka Oosthuizen","Katinka",NA,NA,"Female",NA,NA,NA,"Social Media Influencer",NA
+"269","SA0102","Werner Joubert","Werner",NA,NA,"Male",NA,NA,NA,"Pastor/Biokineticist",NA
+"270","SA0103","Annalize Sainsbury","Annalize",NA,NA,"Female",NA,NA,NA,"Caterer",NA
+"271","SA0104","Jeanne Michel","Jeanne",NA,NA,"Female",NA,NA,NA,"Radio Producer",NA
+"272","SA0105","Tom Swartz","Tom",NA,NA,"Male",NA,NA,NA,"Adventure Camp Manager",NA
+"273","SA0106","Lee-Anne van Renen","Lee-Anne",NA,NA,"Female",NA,NA,NA,"Life Coach/Mrs. Cape Town 2018",NA
+"274","SA0107","Paul Smulders","Paul",NA,NA,"Male",NA,NA,NA,"Real Estate Agent",NA
+"275","SA0108","Ai-Ting Wong","Ting Ting",NA,NA,"Female","Taiwanese",NA,NA,"Doctor",NA
+"276","SA0109","Rose-Lee Smith","Rose-Lee",NA,NA,"Female",NA,NA,NA,"Crime Scene Analyst",NA
+"277","SA0110","Felix Godlo","Felix",NA,NA,"Male","Xhosa",NA,NA,"Sales Consultant",NA
+"278","SA0111","Tania Copeland","Tania",NA,NA,"Female",NA,NA,NA,"Immigration Consultant",NA
+"279","SA0112","Rocco van Rooyen","Rocco",1992-12-23,NA,"Male",NA,NA,NA,"Professional Athlete",NA
+"280","SA0113","Nathan Castle","Nathan",NA,NA,"Male",NA,NA,NA,"Media Producer",NA
+"281","SA0114","Meryl Szolkiewicz","Meryl",NA,NA,"Female",NA,NA,NA,"Pilates Instructor",NA
+"282","SA0115","Geoffrey Cooke-Tonnesen","Geoffrey",NA,NA,"Male",NA,NA,NA,"Home Loans Consultant",NA
+"283","SA0116","Seipei Mashugane","Seipei",NA,NA,"Female","Soweto",NA,NA,"Entrepreneur/Biker Queen",NA
+"284","SA0117","Dante de Villiers","Dante",NA,NA,"Male",NA,NA,NA,"Coffee Shop Owner",NA
+"285","SA0118","Cobus Hugo","Cobus",NA,NA,"Male",NA,NA,NA,"Architect",NA
+"286","SA0119","Mmabatiokoa Molefe","Mmaba",NA,NA,"Female","Zulu",NA,NA,"Investment Analyst",NA
+"287","SA0120","Jacques Burger","Jacques",NA,NA,"Male",NA,NA,NA,"Industrial Engineer",NA
+"288","SA0121","Mike Venter","Mike",NA,NA,"Male",NA,NA,NA,"Radio Presenter",NA
+"289","SA0122","Steffi Brink","Steffi",1991-10-23,NA,"Female","Nambibian",NA,NA,"Fitness Model",NA
+"290","SA0123","Laetitia le Roux","Laetitia",NA,NA,"Female",NA,NA,NA,"Nurse",NA
+"291","SA0124","Durao Mariano","Durāo",NA,NA,"Male",NA,NA,NA,"Hotel Guest Liaison",NA
+"292","SA0125","Nicole Capper","Nicole",NA,NA,"Female",NA,NA,NA,"Ex-Mrs. South Africa",NA
+"293","SA0126","Robert Bentele","Rob",NA,NA,"Male","Austrian/Zulu",NA,NA,"Events Videographer",NA
+"294","SA0127","Jason Brookstein","Jason",NA,NA,"Male",NA,NA,NA,"Structural Engineering Draughtsman",NA
+"295","SA0128","Noleen Nkanjeni","Pinty",NA,NA,"Female",NA,NA,NA,"Freelancer",NA
+"296","SA0129","Mike Laws","Mike",NA,NA,"Male",NA,NA,NA,"Lawyer",NA
+"297","SA0130","Paul Cupido","Paul",NA,NA,"Male",NA,NA,NA,"Aftercare Teacher",NA
+"298","SA0131","Thoriso M-Afrika","Thoriso",NA,NA,"Female",NA,NA,NA,"Marketing Officer",NA
+"299","SA0132","Carla Gubb","Carla",NA,NA,"Female",NA,NA,NA,"Corporate Sales Executive",NA
+"300","SA0133","Dino Paulo","Dino",NA,NA,"Male",NA,NA,NA,"Live Escape Game Owner",NA
+"301","SA0134","Qiean Wang","Qiean",1985-07-16,NA,"Female",NA,NA,NA,"Volunteer Firefighter/Self-employed",NA
+"302","SA0135","Marisha du Plessis","Marisha",1985-07-16,NA,"Female",NA,NA,NA,"Guest House Owner",NA
+"303","SA0136","Shaun Wilson","Shaun",NA,NA,"Male",NA,NA,NA,"IT Business Owner",NA
+"304","SA0137","Renier Louwrens","Renier",NA,NA,"Male",NA,NA,NA,"Chemical Engineer",NA
+"305","SA0138","Amy Eliason","Amy",NA,NA,"Female",NA,NA,NA,"Corporate Lawyer",NA
+"306","SA0139","Anesu Mbizvo","Anesu",NA,NA,"Female",NA,NA,NA,"Doctor/Vegan Lifestyle Entrepreneur",NA
+"307","SA0140","Wardah Hartley","Wardah",NA,NA,"Female",NA,NA,NA,"Yoga Instructor",NA
+"308","SA0141","Santoni Engelbrecht","Santoni",NA,NA,"Female",NA,NA,NA,"Online Business Owner",NA
+"309","SA0142","Kiran Naidoo","Kiran",NA,NA,"Male",NA,NA,NA,"Strategy Consultant",NA
+"310","SA0143","Tyson Zulu","Tyson",NA,NA,"Male",NA,NA,NA,"Entrepreneur",NA
+"311","SA0144","Francois Chapman","Chappies",NA,NA,"Male",NA,NA,NA,"Transformation Coach",NA
+"312","SA0145","Anela Majozi","Anela",NA,NA,"Male",NA,NA,NA,"Math Educator",NA
+"313","SA0146","Nicole Wilmans","Nicole",NA,NA,"Female",NA,NA,NA,"Digital Marketing Manager",NA
+"314","SACaptain01",NA,"Mark",NA,NA,"Male",NA,NA,NA,NA,NA
+"315","SACaptain02",NA,"Corne",NA,NA,"Male",NA,NA,NA,NA,NA
+"316","US0001","Sonja Christopher","Sonja",1937-01-28,NA,"Female",NA,NA,"White","Musician","ENFP"
+"317","US0002","B.B. Andersen","B.B.",1936-01-18,2013-10-29,"Male",NA,NA,"White","Real Estate Developer","ESTJ"
+"318","US0003","Stacey Stillman","Stacey",1972-08-11,NA,"Female",NA,NA,"White","Attorney","ENTJ"
+"319","US0004","Ramona Gray","Ramona",1971-01-20,NA,"Female","Black",NA,"POC","Biochemist/Chemist","ISTJ"
+"320","US0005","Dirk Been","Dirk",1976-06-15,NA,"Male",NA,NA,"White","Dairy Farmer","ISFP"
+"321","US0006","Joel Klug","Joel",1972-04-13,NA,"Male",NA,NA,"White","Health Club Consultant","ESTJ"
+"322","US0007","Gretchen Cordy","Gretchen",1962-02-07,NA,"Female",NA,NA,"White","Teacher","ESFJ"
+"323","US0008","Greg Buis","Greg",1975-12-31,NA,"Male",NA,NA,"White","Ivy League Graduate","INTP"
+"324","US0009","Jenna Lewis","Jenna L.",1977-07-16,NA,"Female",NA,NA,"White","Student","ENFP"
+"325","US0010","Gervase Peterson","Gervase",1969-11-02,NA,"Male","Black",NA,"POC","YMCA Basketball Coach;Cigar Lounge Owner","ESTP"
+"326","US0011","Colleen Haskell","Colleen",1976-12-06,NA,"Female",NA,NA,"White","Student","INFP"
+"327","US0012","Sean Kenniff","Sean",1969-11-27,NA,"Male",NA,NA,"White","Doctor","INTP"
+"328","US0013","Susan Hawk","Sue",1961-08-17,NA,"Female",NA,NA,"White","Truck Driver","ESTP"
+"329","US0014","Rudy Boesch","Rudy",1928-01-20,2019-11-01,"Male",NA,NA,"White","Retired Navy SEAL","ISTJ"
+"330","US0015","Kelly Wiglesworth","Kelly",1977-06-24,NA,"Female",NA,NA,"White","River Guide","ISFP"
+"331","US0016","Richard Hatch","Richard",1961-04-08,NA,"Male",NA,NA,"White","Corporate Trainer","ENTP"
+"332","US0017","Debb Eaton","Debb",1955-06-11,NA,"Female",NA,NA,"White","Corrections Officer","ISFP"
+"333","US0018","Kel Gleason","Kel",1968-01-05,NA,"Male",NA,"Hispanic or Latino, Native American","POC","Army Intelligence Officer","ISTJ"
+"334","US0019","Maralyn Hershey","Maralyn",1949-01-24,NA,"Female",NA,NA,"White","Retired Police Officer","ESTP"
+"335","US0020","Mitchell Olson","Mitchell",1977-03-17,NA,"Male",NA,NA,"White","Singer/Songwriter","ENFP"
+"336","US0021","Kimmi Kappenberg","Kimmi",1972-11-11,NA,"Female",NA,NA,"White","Bartender","ENFP"
+"337","US0022","Michael Skupin","Michael",1962-01-29,NA,"Male",NA,NA,"White","Software Publisher;Part-Time Professional Speaker","ESFJ"
+"338","US0023","Jeff Varner","Jeff",1966-04-16,NA,"Male",NA,NA,"White","Internet Projects Manager","ENFP"
+"339","US0024","Alicia Calaway","Alicia",1968-05-01,NA,"Female","Black",NA,"POC","Personal Trainer","ESTJ"
+"340","US0025","Jerri Manthey","Jerri",1970-09-05,NA,"Female",NA,NA,"White","Aspiring Actress","ESFP"
+"341","US0026","Nick Brown","Nick",1977-04-02,NA,"Male","Black",NA,"POC","Harvard Law Student","ISTJ"
+"342","US0027","Amber Mariano","Amber",1978-08-11,NA,"Female",NA,NA,"White","Administrative Assistant;Director of Marketing and Communications","ISFP"
+"343","US0028","Rodger Bingham","Rodger",1947-07-05,NA,"Male",NA,NA,"White","Teacher/Farmer","ISFJ"
+"344","US0029","Elisabeth Filarski","Elisabeth",1977-05-28,NA,"Female",NA,NA,"White","Footwear Designer","INFP"
+"345","US0030","Keith Famie","Keith",1960-02-11,NA,"Male",NA,NA,"White","Chef","ESTJ"
+"346","US0031","Colby Donaldson","Colby",1974-04-01,NA,"Male",NA,NA,"White","Auto Customizer","ISTP"
+"347","US0032","Tina Wesson","Tina",1960-12-26,NA,"Female",NA,NA,"White","Personal Nurse;Motivational Speaker","ESFJ"
+"348","US0033","Diane Ogden","Diane",1959-04-27,NA,"Female",NA,NA,"White","U.S. Mail Carrier","ESTP"
+"349","US0034","Jessie Camacho","Jessie",1974-09-24,NA,"Female",NA,"Hispanic or Latino","POC","Deputy Sheriff","ISFP"
+"350","US0035","Carl Bilancione","Carl",1955-06-20,NA,"Male",NA,NA,"White","Dentist","ESTJ"
+"351","US0036","Linda Spencer","Linda",1957-01-01,NA,"Female","Black",NA,"POC","Career Counselor","ESFJ"
+"352","US0037","Silas Gaither","Silas",1978-01-28,NA,"Male",NA,NA,"White","Bartender","ESTJ"
+"353","US0038","Lindsey Richter","Lindsey",1974-08-31,NA,"Female",NA,NA,"White","Advertising Executive","ESFP"
+"354","US0039","Clarence Black","Clarence",1976-12-21,NA,"Male","Black",NA,"POC","Basketball Coach","ISTP"
+"355","US0040","Kelly Goldsmith","Kelly",1979-04-27,NA,"Female",NA,NA,"White","Behavioral Research Analyst","ENTP"
+"356","US0041","Brandon Quinton","Brandon",1976-01-22,NA,"Male",NA,NA,"White","Bartender","ENFP"
+"357","US0042","Frank Garrison","Frank",1958-07-22,NA,"Male",NA,NA,"White","Telephone Technician","ISTJ"
+"358","US0043","Kim Powers","Kim P.",1971-12-03,NA,"Female",NA,NA,"White","Freelance Marketer","INFP"
+"359","US0044","Teresa Cooper","Teresa",1959-05-05,NA,"Female",NA,NA,"White","Flight Attendant","ENFP"
+"360","US0045","Tom Buchanan","Tom",1955-10-30,NA,"Male",NA,NA,"White","Goat Farmer","ESTP"
+"361","US0046","Lex van den Berghe","Lex",1963-06-18,NA,"Male",NA,NA,"White","Marketing Manager","ENTJ"
+"362","US0047","Kim Johnson","Kim J.",1944-09-18,NA,"Female",NA,NA,"White","Retired Teacher","ISFJ"
+"363","US0048","Ethan Zohn","Ethan",1973-11-12,NA,"Male","White","Jewish","White","Professional Soccer Player;Social Entrepreneur/Keynote Speaker","ISFP"
+"364","US0049","Peter Harkey","Peter",1956-01-17,NA,"Male",NA,NA,"White","Bowling Alley Owner","ENFP"
+"365","US0050","Patricia Jackson","Patricia",1952-04-08,NA,"Female",NA,NA,"White","Truck Assembler","ISFJ"
+"366","US0051","Hunter Ellis","Hunter",1968-07-05,NA,"Male",NA,NA,"White","Former Navy Fighter Pilot","ESTJ"
+"367","US0052","Sarah Jones","Sarah",1977-08-11,NA,"Female",NA,NA,"White","Account Manager","ISFP"
+"368","US0053","Gabriel Cade","Gabriel",1978-07-01,NA,"Male",NA,NA,"White","Bartender","INFP"
+"369","US0054","Gina Crews","Gina",1973-02-07,NA,"Female",NA,NA,"White","Nature Guide","ISFJ"
+"370","US0055","Rob Mariano","Boston Rob",1975-12-25,NA,"Male",NA,NA,"White","Construction Worker","ESTJ"
+"371","US0056","John Carroll","John",1965-06-14,NA,"Male",NA,NA,"White","Registered Nurse","ENTJ"
+"372","US0057","Zoe Zanidakis","Zoe",1966-03-17,NA,"Female",NA,NA,"White","Fishing Boat Captain","ISTJ"
+"373","US0058","Tammy Leitner","Tammy",1972-07-03,NA,"Female",NA,NA,"White","Crime Reporter","ENFJ"
+"374","US0059","Robert DeCanio","Robert",1963-06-19,NA,"Male",NA,NA,"White","Limousine Driver","ISTJ"
+"375","US0060","Sean Rector","Sean",1971-08-20,NA,"Male","Black",NA,"POC","Teacher","ENTP"
+"376","US0061","Paschal English","Paschal",1945-03-05,NA,"Male",NA,NA,"White","Judge","ISFJ"
+"377","US0062","Kathy Vavrick-O'Brien","Kathy",1955-01-06,NA,"Female",NA,NA,"White","Real Estate Agent","ESFJ"
+"378","US0063","Neleh Dennis","Neleh",1980-02-19,NA,"Female",NA,NA,"White","Student","ENFP"
+"379","US0064","Vecepia Towery","Vecepia",1965-12-09,NA,"Female","Black",NA,"POC","Office Manager","ISTJ"
+"380","US0065","John Raymond","John",1962-02-21,NA,"Male",NA,NA,"White","Pastor","ENFP"
+"381","US0066","Tanya Vance","Tanya",1974-11-29,NA,"Female",NA,NA,"White","Social Worker","ESTJ"
+"382","US0067","Jed Hildebrand","Jed",1976-12-05,NA,"Male",NA,NA,"White","Dental Student","ISFP"
+"383","US0068","Ghandia Johnson","Ghandia",1969-01-03,NA,"Female","Black",NA,"POC","Legal Secretary","ESFP"
+"384","US0069","Stephanie Dill","Stephanie",1972-11-15,NA,"Female",NA,NA,"White","Firefighter","ISTJ"
+"385","US0070","Robert Zbacnik","Robb",1978-09-12,NA,"Male",NA,NA,"White","Bartender","ESFP"
+"386","US0071","Shii Ann Huang","Shii Ann",1974-01-24,NA,"Female","Asian","Taiwanese American","POC","Executive Recruiter","INTJ"
+"387","US0072","Erin Collins","Erin",1976-01-07,NA,"Female",NA,NA,"White","Real Estate Agent","ESFP"
+"388","US0073","Ken Stafford","Ken",1972-06-20,NA,"Male",NA,NA,"White","NYC Police Officer","ESTJ"
+"389","US0074","Penny Ramsey","Penny",1975-04-24,NA,"Female",NA,NA,"White","Pharmaceutical Sales","ESFJ"
+"390","US0075","Jake Billingsley","Jake",1941-08-21,NA,"Male",NA,NA,"White","Land Broker","ISFJ"
+"391","US0076","Ted Rogers Jr.","Ted",1964-12-28,NA,"Male","Black",NA,"POC","Software Development Manager","ESTP"
+"392","US0077","Helen Glover","Helen",1955-04-28,NA,"Female",NA,NA,"White","Navy Swim Instructor","ISTJ"
+"393","US0078","Jan Gentry","Jan",1948-10-31,NA,"Female",NA,NA,"White","Teacher","ENFP"
+"394","US0079","Clay Jordan","Clay",1955-12-30,2022-05-19,"Male",NA,NA,"White","Restaurant Owner","ESTP"
+"395","US0080","Brian Heidik","Brian",1968-03-09,NA,"Male",NA,NA,"White","Used Car Salesman","ISTP"
+"396","US0081","Ryan Aiken","Ryan",1979-02-13,NA,"Male",NA,NA,"White","Model","ESFP"
+"397","US0082","Janet Koth","Janet",1955-11-18,NA,"Female",NA,NA,"White","Homemaker","ISFJ"
+"398","US0083","Daniel Lue","Daniel",1975-11-29,NA,"Male","Asian","Chinese American","POC","Tax Accountant","INFP"
+"399","US0084","JoAnna Ward","JoAnna",1971-04-29,NA,"Female","Black",NA,"POC","Guidance Counselor","ISTJ"
+"400","US0085","Jeanne Hebert","Jeanne",1962-01-06,NA,"Female",NA,NA,"White","Marketing Director","ISTJ"
+"401","US0086","Shawna Mitchell","Shawna",1979-07-28,NA,"Female",NA,NA,"White","Retail Saleswoman","ENFP"
+"402","US0087","Roger Sexton","Roger",1946-09-26,2022-10-26,"Male",NA,NA,"White","Construction Company V.P.","ISTJ"
+"403","US0088","Dave Johnson","Dave",1979-01-16,NA,"Male",NA,NA,"White","Rocket Scientist","ISTJ"
+"404","US0089","Deena Bennett","Deena",1967-02-12,NA,"Female",NA,"Hispanic or Latino","POC","Deputy District Attorney","ENTJ"
+"405","US0090","Alex Bell","Alex",1970-05-16,NA,"Male",NA,NA,"White","Triathlon Coach","ENFJ"
+"406","US0091","Christy Smith","Christy",1978-09-13,NA,"Female",NA,NA,"White","Children's Adventure Guide","INFP"
+"407","US0092","Heidi Strobel","Heidi",1978-10-29,NA,"Female",NA,NA,"White","Gym Teacher","ENTJ"
+"408","US0093","Butch Lockley","Butch",1952-08-28,NA,"Male",NA,NA,"White","Principal","ISFJ"
+"409","US0094","Rob Cesternino","Rob C.",1978-10-20,NA,"Male",NA,NA,"White","Computer Projects Coordinator","ENTP"
+"410","US0095","Matthew von Ertfelda","Matthew",1969-07-24,NA,"Male",NA,NA,"White","Restaurant Designer","INTP"
+"411","US0096","Jenna Morasca","Jenna M.",1981-02-15,NA,"Female",NA,NA,"White","Swimsuit Model","ISTP"
+"412","US0097","Nicole Delma","Nicole",1978-09-19,NA,"Female",NA,NA,"White","Massage Therapist","INTP"
+"413","US0098","Ryan Shoulders","Ryan S.",1980-03-28,NA,"Male",NA,NA,"White","Produce Clerk","INFP"
+"414","US0099","Lillian Morris","Lillian",1952-04-03,NA,"Female",NA,NA,"White","Scout Troop Leader","INFP"
+"415","US0100","Burton Roberts","Burton",1972-04-10,NA,"Male",NA,NA,"White","Marketing Executive","ISTJ"
+"416","US0101","Michelle Tesauro","Michelle",1981-01-16,NA,"Female",NA,NA,"White","Student","ENFP"
+"417","US0102","Trish Dunn","Trish",1960-10-29,NA,"Female",NA,NA,"White","Sales Executive","ENFJ"
+"418","US0103","Shawn Cohen","Shawn",1974-09-20,NA,"Male","White","Jewish","White","Advertising Sales","ESTP"
+"419","US0104","Osten Taylor","Osten",1975-12-10,NA,"Male","Black",NA,"POC","Equity Trade Manager","ESFP"
+"420","US0105","Andrew Savage","Andrew",1963-07-29,NA,"Male",NA,NA,"White","Attorney","ESTJ"
+"421","US0106","Ryan Opray","Ryan O.",1972-08-06,NA,"Male",NA,NA,"White","Electrician","ISFJ"
+"422","US0107","Rupert Boneham","Rupert",1964-01-27,NA,"Male",NA,NA,"White","Troubled Teens Mentor","ESFJ"
+"423","US0108","Tijuana Bradley","Tijuana",1976-07-23,NA,"Female","Black",NA,"POC","Pharmaceutical Sales","ESFP"
+"424","US0109","Christa Hastie","Christa",1978-11-06,NA,"Female",NA,NA,"White","Computer Programmer","ESFP"
+"425","US0110","Darrah Johnson","Darrah",1981-05-19,NA,"Female",NA,NA,"White","Mortician","ISTP"
+"426","US0111","Jon Dalton","Jonny Fairplay",1974-03-11,NA,"Male",NA,NA,"White","Art Consultant","ENTP"
+"427","US0112","Sandra Diaz-Twine","Sandra",1974-07-30,NA,"Female",NA,"Hispanic or Latino","POC","Office Assistant;Case Manager","ESTP"
+"428","US0113","Brook Geraghty","Brook",1976-11-20,NA,"Male",NA,NA,"White","Document Manager","INTP"
+"429","US0114","Dolly Neely","Dolly",1978-11-18,NA,"Female",NA,NA,"White","Sheep Farmer","ISFP"
+"430","US0115","John Palyok","John P.",1973-05-13,NA,"Male",NA,NA,"White","Sales Manager","ESTP"
+"431","US0116","Mia Galeotalanza","Mia",1974-08-17,NA,"Female",NA,NA,"White","Bookkeeper","ESFP"
+"432","US0117","Brady Finta","Brady",1970-12-17,NA,"Male",NA,NA,"White","FBI Agent","ISTJ"
+"433","US0118","Travis Sampson","Travis",1971-02-19,NA,"Male",NA,NA,"White","Security Officer","ISFP"
+"434","US0119","Lisa Keiffer","Lisa",1960-05-03,NA,"Female",NA,NA,"White","Real Estate Agent","ESFJ"
+"435","US0120","John Kenney","John K.",1981-09-26,NA,"Male",NA,NA,"White","Mechanical Bull Operator","ESFP"
+"436","US0121","Rory Freeman","Rory",1968-10-30,NA,"Male","Black",NA,"POC","Housing Case Manager","INTP"
+"437","US0122","Lea Masters","Lea",1964-03-28,NA,"Male",NA,NA,"White","Drill Sergeant","ESFJ"
+"438","US0123","James Crittenden","Chad",1969-08-08,NA,"Male",NA,NA,"White","Teacher","ESTP"
+"439","US0124","Leann Slaby","Leann",1969-07-08,NA,"Female",NA,NA,"White","Equity Research Assistant","INFJ"
+"440","US0125","Ami Cusack","Ami",1973-01-25,NA,"Female",NA,NA,"White","Coffee Barista;Nanny","ENTJ"
+"441","US0126","Julie Berry","Julie",1980-12-15,NA,"Female",NA,"Native American","POC","Youth Mentor","INFP"
+"442","US0127","Eliza Orlins","Eliza",1982-12-25,NA,"Female","White","Jewish","White","Pre-Law Student;Law School Student","ENTJ"
+"443","US0128","Scout Cloud Lee","Scout",1944-11-08,NA,"Female",NA,NA,"White","Rancher","INFJ"
+"444","US0129","Twila Tanner","Twila",1962-10-12,NA,"Female",NA,NA,"White","Highway Repair Worker","ISTJ"
+"445","US0130","Chris Daugherty","Chris",1970-08-29,NA,"Male",NA,NA,"White","Highway Construction Worker","ENTP"
+"446","US0131","Jonathan Libby","Jonathan",1981-09-05,NA,"Male",NA,NA,"White","Sales & Marketing Associate","ISTP"
+"447","US0132","Wanda Shirk","Wanda",1949-08-24,NA,"Female",NA,NA,"White","English Teacher","ENFP"
+"448","US0133","Jolanda Jones","Jolanda",1965-11-06,NA,"Female","Black",NA,"POC","Lawyer","ESTJ"
+"449","US0134","Ashlee Ashby","Ashlee",1982-05-02,NA,"Female",NA,NA,"White","Student","ISFJ"
+"450","US0135","Jeff Wilson","Jeff",1983-02-09,NA,"Male",NA,NA,"White","Personal Trainer","ESFP"
+"451","US0136","Kimberly Mullen","Kim",1979-03-13,NA,"Female",NA,NA,"White","Graduate Student","INTJ"
+"452","US0137","Willard Smith","Willard",1947-11-30,NA,"Male",NA,NA,"White","Lawyer","INTP"
+"453","US0138","Angie Jakusz","Angie",1980-03-27,2021-01-08,"Female",NA,NA,"White","Bartender","INFP"
+"454","US0139","James Miller","James",1971-07-08,NA,"Male",NA,NA,"White","Steelworker","ESTP"
+"455","US0140","Ibrehem Rahman","Ibrehem",1977-03-04,NA,"Male","Black",NA,"POC","Waiter","ISTJ"
+"456","US0141","Bobby Jon Drinkard","Bobby Jon",1977-05-10,NA,"Male",NA,NA,"White","Waiter","ISTP"
+"457","US0142","Coby Archa","Coby",1972-09-08,NA,"Male",NA,NA,"White","Hairstylist","ENFP"
+"458","US0143","Janu Tornell","Janu",1965-05-09,NA,"Female","Cuban American","Hispanic or Latino","POC","Vegas Showgirl","INFP"
+"459","US0144","Stephenie LaGrossa","Stephenie",1979-12-06,NA,"Female",NA,NA,"White","Pharmaceutical Sales Representative","ESTJ"
+"460","US0145","Gregg Carey","Gregg",1977-01-09,NA,"Male",NA,NA,"White","Business Consultant","INTP"
+"461","US0146","Caryn Groedel","Caryn",1958-08-13,NA,"Female","White","Jewish","White","Civil Rights Lawyer","ISTJ"
+"462","US0147","Jennifer Lyon","Jenn",1972-02-27,2010-01-19,"Female",NA,NA,"White","Nanny","ISFP"
+"463","US0148","Ian Rosenberger","Ian",1981-08-24,NA,"Male",NA,NA,"White","Dolphin Trainer","ESFP"
+"464","US0149","Katie Gallagher","Katie",1975-05-28,NA,"Female",NA,NA,"White","Advertising Executive","ESFP"
+"465","US0150","Tom Westman","Tom",1964-01-04,NA,"Male",NA,NA,"White","NYC Firefighter;Motivational Speaker","ESTJ"
+"466","US0151","Jim Lynch","Jim",1942-01-07,NA,"Male",NA,NA,"White","Retired Fire Captain","ISTJ"
+"467","US0152","Morgan McDevitt","Morgan",1983-11-24,NA,"Female",NA,NA,"White","Magician's Assistant","INFP"
+"468","US0153","Brianna Varela","Brianna",1983-10-29,NA,"Female",NA,"Hispanic or Latino","POC","Retail Salesperson","ENFP"
+"469","US0154","Brooke Struck","Brooke",1979-07-30,NA,"Female",NA,NA,"White","Law Student","ISTJ"
+"470","US0155","Blake Towsley","Blake",1981-05-05,NA,"Male",NA,NA,"White","Real Estate Broker","ESTP"
+"471","US0156","Margaret Bobonich","Margaret",1962-06-05,NA,"Female",NA,NA,"White","Nurse Practitioner","ESFJ"
+"472","US0157","Brian Corridan","Brian",1983-02-10,NA,"Male",NA,NA,"White","Ivy League Student","ENTP"
+"473","US0158","Amy O'Hara","Amy",1965-11-02,NA,"Female",NA,NA,"White","Police Sergeant","ESTP"
+"474","US0159","Brandon Bellinger","Brandon",1983-01-22,NA,"Male",NA,NA,"White","Farmer","ISTP"
+"475","US0160","Jamie Newton","Jamie",1981-01-26,NA,"Male",NA,NA,"White","Water Skiing Instructor","ISTP"
+"476","US0161","Gary Hogeboom","Gary",1958-08-21,NA,"Male",NA,NA,"White","Ex-NFL Quarterback","INFJ"
+"477","US0162","Judd Sergeant","Judd",1970-09-13,NA,"Male",NA,NA,"White","Hotel Doorman","ESTP"
+"478","US0163","Cindy Hall","Cindy",1974-06-28,NA,"Female",NA,NA,"White","Zookeeper","ISFP"
+"479","US0164","Lydia Morales","Lydia",1963-01-19,NA,"Female","Puerto Rican American","Hispanic or Latino","POC","Fishmonger","ISFJ"
+"480","US0165","Rafe Judkins","Rafe",1983-01-08,NA,"Male",NA,NA,"White","Wilderness Guide","INFP"
+"481","US0166","Danni Boatwright","Danni",1975-07-13,NA,"Female",NA,NA,"White","Sports Radio Host;Owner of Sideline Chic","ENFJ"
+"482","US0167","Tina Scheer","Tina",1960-11-17,NA,"Female",NA,NA,"White","Lumberjill","ESTP"
+"483","US0168","Melinda Hyder","Melinda",1973-05-23,NA,"Female",NA,NA,"White","Singer/Entertainer","ESFJ"
+"484","US0169","Misty Giles","Misty",1981-02-25,NA,"Female",NA,NA,"White","Missile Engineer","INTP"
+"485","US0170","Ruth Marie Milliman","Ruth Marie",1957-04-11,NA,"Female",NA,NA,"White","Real Estate","ISFJ"
+"486","US0171","Bobby Mason","Bobby",1973-08-20,NA,"Male","Black",NA,"POC","Attorney","ISTP"
+"487","US0172","Dan Barry","Dan",1953-12-30,NA,"Male",NA,NA,"White","Astronaut","ISFJ"
+"488","US0173","Nick Stanbury","Nick",1980-07-21,NA,"Male",NA,NA,"White","Financial Sales","ISFP"
+"489","US0174","Austin Carty","Austin",1981-04-29,NA,"Male",NA,NA,"White","Writer","INFP"
+"490","US0175","Sally Schumann","Sally",1978-12-10,NA,"Female",NA,NA,"White","Social Worker","INFP"
+"491","US0176","Bruce Kanegai","Bruce",1947-12-17,NA,"Male","Asian","Japanese American","POC","Art Teacher","INFP"
+"492","US0177","Courtney Marit","Courtney",1974-05-24,NA,"Female",NA,NA,"White","Fire Dancer","ENFP"
+"493","US0178","Shane Powers","Shane",1970-11-28,NA,"Male",NA,NA,"White","Marketing Executive","ESFP"
+"494","US0179","Cirie Fields","Cirie",1970-07-18,NA,"Female","Black",NA,"POC","Nurse","ENFJ"
+"495","US0180","Terry Deitz","Terry",1959-10-10,NA,"Male",NA,NA,"White","Pilot","ESTJ"
+"496","US0181","Danielle DiLorenzo","Danielle",1981-06-03,NA,"Female",NA,NA,"White","Medical Sales Rep.","ESFP"
+"497","US0182","Aras Baskauskas","Aras",1981-09-26,NA,"Male",NA,NA,"White","Yoga Instructor;Musician","INFP"
+"498","US0183","Sekou Bunch","Sekou",1960-09-09,NA,"Male","Black",NA,"POC","Jazz Musician","ESFJ"
+"499","US0184","Virgilio Garcia","Billy",1970-04-22,NA,"Male",NA,"Hispanic or Latino","POC","Heavy Metal Musician","INFJ"
+"500","US0185","Cecilia Mansilla","Cecilia",1977-01-13,NA,"Female","Peruvian American","Hispanic or Latino","POC","Risk Consultant","ISTJ"
+"501","US0186","John Calderon","J.P.",1975-09-05,NA,"Male",NA,"Hispanic or Latino","POC","Volleyball Pro","ESFP"
+"502","US0187","Stephannie Favor","Stephannie",1970-07-12,NA,"Female","Black",NA,"POC","Nursing Student","ISFJ"
+"503","US0188","Anh-Tuan Bui","Cao Boi",1964-04-10,NA,"Male","Asian","Vietnamese American","POC","Nail Salon Manager","ENFP"
+"504","US0189","Cristina Coria","Cristina",1971-04-18,NA,"Female",NA,"Hispanic or Latino","POC","Police Officer","ISFJ"
+"505","US0190","Jessica Smith","Jessica",1979-01-22,NA,"Female","White",NA,"White","Roller Girl","ENFP"
+"506","US0191","Brad Virata","Brad",1976-11-23,NA,"Male","Asian","Asian American","POC","Fashion Director","INFJ"
+"507","US0192","Rebecca Borman","Rebecca",1971-08-31,NA,"Female","Black",NA,"POC","Make-Up Artist","ISFJ"
+"508","US0193","Jenny Guzon-Bae","Jenny",1970-05-08,NA,"Female","Asian","Filipino American","POC","Real Estate Agent","ISTJ"
+"509","US0194","Nathan Gonzalez","Nate",1980-07-26,NA,"Male","Black","Hispanic or Latino","POC","Shoe Salesman","ESTP"
+"510","US0195","Candice Cody","Candice",1982-11-12,NA,"Female",NA,NA,"White","Pre-Med Student;Physician/Anesthesiology Resident","ISTJ"
+"511","US0196","Jonathan Penner","Jonathan",1962-03-05,NA,"Male","White","Jewish","White","Writer","ENTP"
+"512","US0197","Parvati Shallow","Parvati",1982-09-21,NA,"Female","White",NA,"White","Boxer;Charity Organizer;Yoga Teacher/Life Coach/Speaker","ENFJ"
+"513","US0198","Adam Gentry","Adam",1978-08-21,NA,"Male","White",NA,"White","Copier Sales","ESTP"
+"514","US0199","Sundra Oakley","Sundra",1975-01-02,NA,"Female","Black",NA,"POC","Actress","INFP"
+"515","US0200","Rebekah Lee","Becky",1977-09-11,NA,"Female","Asian","Korean American","POC","Attorney","INTP"
+"516","US0201","Oscar Lusth","Ozzy",1981-08-23,NA,"Male","Mexican American","Hispanic or Latino","POC","Waiter;Photographer","ISFP"
+"517","US0202","Yul Kwon","Yul",1975-02-14,NA,"Male","Asian","Korean American","POC","Management Consultant;Product Management","INTJ"
+"518","US0203","Jessica deBen","Jessica",1979-04-25,NA,"Female",NA,NA,"White","Fashion Stylist","INFJ"
+"519","US0204","Erica Durousseau","Erica",1979-12-11,NA,"Female","Black",NA,"POC","Non-Profit Fundraiser","ESFP"
+"520","US0205","Sylvia Kwan","Sylvia",1954-08-18,NA,"Female","Asian","Hong Konger American","POC","Architect","ISTJ"
+"521","US0206","Gary Stritesky","Gary",1951-09-16,NA,"Male",NA,NA,"White","School Bus Driver","ISFJ"
+"522","US0207","Liliana Gomez","Liliana",1981-04-05,NA,"Female","Mexican American","Hispanic or Latino","POC","Loan Officer","ISTJ"
+"523","US0208","Rita Verreos","Rita",1968-07-19,NA,"Female","Venezuelan American","Hispanic or Latino","POC","Single Mom","ISFJ"
+"524","US0209","Anthony Robinson","Anthony",1974-06-25,NA,"Male","Black",NA,"POC","Expert Witness Locator","INFP"
+"525","US0210","James Reid","Rocky",1978-09-11,NA,"Male",NA,NA,"White","Bartender","ESTP"
+"526","US0211","Lisette Linares","Lisi",1970-06-09,NA,"Female","Cuban American","Hispanic or Latino","POC","Customer Service Rep.","ESFP"
+"527","US0212","Michelle Yi","Michelle",1983-12-02,NA,"Female","Asian","Taiwanese American","POC","Student","ENFP"
+"528","US0213","Edgardo Rivera","Edgardo",1978-10-05,NA,"Male","Puerto Rican American","Hispanic or Latino","POC","Ad Executive","ESTP"
+"529","US0214","Mookie Lee","Mookie",1981-11-10,NA,"Male","Asian","Korean American","POC","Business Consultant","ESFP"
+"530","US0215","Alex Angarita","Alex",1978-04-20,NA,"Male","Colombian American","Hispanic or Latino","POC","Attorney","ENTJ"
+"531","US0216","Stacy Kimball","Stacy",1979-10-01,NA,"Female","Asian","Korean American","POC","Web Producer","INTJ"
+"532","US0217","Kenward Bernis","Boo",1972-06-21,NA,"Male",NA,NA,"White","Construction Worker","ISTP"
+"533","US0218","Yau-Man Chan","Yau-Man",1952-08-26,NA,"Male","Asian","Bornean American","POC","Computer Engineer","INTP"
+"534","US0219","Andria Herd","Dreamz",1981-12-15,NA,"Male","Black",NA,"POC","Cheerleading Coach","ESFP"
+"535","US0220","Cassandra Franklin","Cassandra",1964-04-19,NA,"Female","Black",NA,"POC","College Administrator","ISFJ"
+"536","US0221","Earl Cole","Earl",1971-04-09,NA,"Male","Black",NA,"POC","Ad Executive","INFJ"
+"537","US0222","Steve Morris","Chicken",1959-09-02,NA,"Male",NA,NA,"White","Chicken Farmer","ISFP"
+"538","US0223","Ashley Massaro","Ashley",1979-05-26,2019-05-16,"Female",NA,NA,"White","Professional Wrestler","ESFP"
+"539","US0224","Leslie Nease","Leslie",1969-03-25,NA,"Female",NA,NA,"White","Christian Radio Host","ENFP"
+"540","US0225","Dave Cruser","Dave",1969-10-26,NA,"Male",NA,NA,"White","Former Model","ESTP"
+"541","US0226","Aaron Reisberger","Aaron",1975-04-25,NA,"Male",NA,NA,"White","Surfing Instructor","ISTJ"
+"542","US0227","Sherea Lloyd","Sherea",1981-07-31,NA,"Female","Black",NA,"POC","Elementary Teacher","ESFP"
+"543","US0228","Jaime Dugan","Jaime",1985-06-30,NA,"Female",NA,NA,"White","Student","ESFJ"
+"544","US0229","Jean-Robert Bellande","Jean-Robert",1970-09-17,NA,"Male",NA,NA,"White","Poker Player","INTP"
+"545","US0230","Michael Zernow","Frosti",1987-02-15,NA,"Male","Asian","Japanese Russian American","POC","Student/Athlete","ESFP"
+"546","US0231","James Clement","James",1977-03-09,NA,"Male","Black",NA,"POC","Gravedigger","ISTP"
+"547","US0232","Erik Huffman","Erik",1981-01-31,NA,"Male",NA,NA,"White","Musician","ISFP"
+"548","US0233","Peih-Gee Law","Peih-Gee",1978-04-07,NA,"Female","Asian",NA,"POC","Jeweler","ENTP"
+"549","US0234","Denise Martin","Denise",1967-05-05,NA,"Female",NA,NA,"White","School Lunch Lady","ISFP"
+"550","US0235","Amanda Kimmel","Amanda",1984-08-03,NA,"Female",NA,NA,"White","Hiking Guide;Aspiring Designer","ISFP"
+"551","US0236","Courtney Yates","Courtney",1981-03-26,NA,"Female",NA,NA,"White","Waitress","ENTP"
+"552","US0237","Todd Herzog","Todd",1985-01-29,NA,"Male",NA,NA,"White","Flight Attendant","ENFP"
+"553","US0238","Mary Sartain","Mary",1978-11-11,NA,"Female",NA,NA,"White","Real Estate Manager","ISFJ"
+"554","US0239","Michael Bortone","Mikey B",1973-12-29,NA,"Male",NA,NA,"White","Aspiring Writer","ENTP"
+"555","US0240","Joel Anderson","Joel",1975-06-01,NA,"Male",NA,NA,"White","Firefighter","ESTJ"
+"556","US0241","Chet Welch","Chet",1959-10-22,NA,"Male",NA,NA,"White","Pageant Coach","INFP"
+"557","US0242","Kathleen Sleckman","Kathy",1962-08-14,NA,"Female",NA,NA,"White","Golf Course Vendor","ENFP"
+"558","US0243","Tracy Hughes-Wolf","Tracy",1964-07-09,NA,"Female",NA,NA,"White","Residential Builder","ENFJ"
+"559","US0244","Jason Siska","Jason",1985-03-04,NA,"Male",NA,NA,"White","Gymnastics Coach","ESFP"
+"560","US0245","Alexis Jones","Alexis",1983-07-06,NA,"Female",NA,NA,"White","Motivational Speaker","ENFJ"
+"561","US0246","Erik Reichenbach","Erik",1985-11-27,NA,"Male",NA,NA,"White","Ice Cream Scooper;Comic Book Artist","INTP"
+"562","US0247","Natalie Bolton","Natalie",1975-12-31,NA,"Female","Asian","Native American","POC","Personal Trainer","INTJ"
+"563","US0248","Michelle Chase","Michelle",1984-03-07,NA,"Female",NA,NA,"White","Music Producer","INTP"
+"564","US0249","Gillian Larson","Gillian",1947-02-24,NA,"Female",NA,NA,"White","Retired Nurse","ENFP"
+"565","US0250","Paloma Soto-Castillo","Paloma",1984-08-24,NA,"Female","Chilean American","Hispanic or Latino","POC","Student","ENFP"
+"566","US0251","Jacquie Berg","Jacquie",1982-09-10,NA,"Female",NA,NA,"White","Medical Sales","ENFJ"
+"567","US0252","Danny Brown","GC",1982-07-13,NA,"Male","Black",NA,"POC","Maintenance Man","INFP"
+"568","US0253","Kelly Czarnecki","Kelly",1986-04-04,NA,"Female",NA,NA,"White","Retail Sales","INFP"
+"569","US0254","Ace Gordon","Ace",1980-09-03,NA,"Male",NA,NA,"White","Jewelry Sales and Photographer","INTJ"
+"570","US0255","Dan Kay","Dan",1976-06-30,2016-12-31,"Male",NA,NA,"White","Lawyer","ISFP"
+"571","US0256","Marcus Lehman","Marcus",1979-10-03,NA,"Male",NA,"Hispanic or Latino","POC","Doctor","ENTJ"
+"572","US0257","Charlie Herschel","Charlie",1979-05-12,NA,"Male","White","Jewish","White","Lawyer","ENFP"
+"573","US0258","Randy Bailey","Randy",1959-03-31,NA,"Male",NA,NA,"White","Wedding Videographer","INTJ"
+"574","US0259","Corinne Kaplan","Corinne",1979-01-17,NA,"Female","White","Jewish","White","Pharmaceutical Sales;Clinical Consultant","ENTJ"
+"575","US0260","Crystal Cox","Crystal",1979-03-28,NA,"Female","Black",NA,"POC","Former Olympic Athlete","ESFP"
+"576","US0261","Ken Hoang","Ken",1985-10-10,NA,"Male","Asian","Vietnamese American","POC","Professional Gamer","INTP"
+"577","US0262","Matty Whitmore","Matty",1978-12-18,NA,"Male",NA,NA,"White","Personal Trainer","ESFP"
+"578","US0263","Jessica Kiper","Sugar",1979-02-22,NA,"Female",NA,NA,"White","Pin-Up Model","ENFP"
+"579","US0264","Susie Smith","Susie",1960-10-24,NA,"Female",NA,"Hispanic or Latino","POC","Hairdresser","ISFJ"
+"580","US0265","Robert Crowley","Bob",1951-02-25,NA,"Male",NA,NA,"White","Physics Teacher","INTP"
+"581","US0266","Carolina Eastwood","Carolina",1981-10-27,NA,"Female","Panamanian American","Hispanic or Latino","POC","Bartender","ESTJ"
+"582","US0267","Candace Smith","Candace",1977-02-01,NA,"Female","Black",NA,"POC","Attorney","ISTJ"
+"583","US0268","Jerry Sims","Jerry",1959-05-18,NA,"Male","Black",NA,"POC","Sgt - U.S. Army","ISTJ"
+"584","US0269","Sandy Burgin","Sandy",1955-07-01,NA,"Female",NA,NA,"White","Bus Driver","ESFP"
+"585","US0270","Spencer Duhm","Spencer",1989-12-20,NA,"Male",NA,NA,"White","Student","INFP"
+"586","US0271","Sydney Wheeler","Sydney",1984-05-11,NA,"Female",NA,NA,"White","Model","ISFP"
+"587","US0272","Joe Dowdle","Joe",1982-06-29,NA,"Male",NA,NA,"White","Real Estate Sales","ISTJ"
+"588","US0273","Brendan Synnott","Brendan",1978-09-28,NA,"Male",NA,NA,"White","Entrepreneur","ENTP"
+"589","US0274","Tyson Apostol","Tyson",1979-06-17,NA,"Male",NA,NA,"White","Former Professional Cyclist/Missionary;Shop Manager","ESTP"
+"590","US0275","Sierra Reed","Sierra",1985-09-29,NA,"Female",NA,NA,"White","Model","INFP"
+"591","US0276","Debra Beebe","Debbie",1962-09-28,NA,"Female",NA,NA,"White","Middle School Principal","ESFJ"
+"592","US0277","Benjamin Wade","Coach",1971-09-18,NA,"Male",NA,NA,"White","Soccer Coach/Musician","ENFJ"
+"593","US0278","Tamara Johnson-George","Taj",1971-04-29,NA,"Female","Black",NA,"POC","Former Pop Star","ENFJ"
+"594","US0279","Erinn Lobdell","Erinn",1982-10-21,NA,"Female",NA,NA,"White","Hairstylist","ENFP"
+"595","US0280","Stephen Fishbach","Stephen",1979-01-24,NA,"Male","White","Jewish","White","Corporate Consultant","INTP"
+"596","US0281","James Thomas Jr.","J.T.",1984-06-23,NA,"Male",NA,NA,"White","Cattle Rancher","ESTP"
+"597","US0282","Marisa Calihan","Marisa",1983-07-26,NA,"Female",NA,NA,"White","Student","INFP"
+"598","US0283","Mike Borassi","Mike",1947-03-13,NA,"Male",NA,NA,"White","Personal Chef","ESTP"
+"599","US0284","Betsy Bolan","Betsy",1961-03-20,NA,"Female",NA,NA,"White","Police Officer","ESTJ"
+"600","US0285","Ben Browning","Ben",1980-08-28,NA,"Male",NA,NA,"White","Bar Manager","ESTP"
+"601","US0286","Yasmin Giles","Yasmin",1975-08-29,NA,"Female","Black",NA,"POC","Hairstylist","ESFP"
+"602","US0287","Ashley Trainer","Ashley",1987-02-27,NA,"Female",NA,NA,"White","Spa Sales","ENFP"
+"603","US0288","Russell Swan","Russell S.",1967-02-17,NA,"Male","Black",NA,"POC","Attorney","ESFJ"
+"604","US0289","Elizabeth Kim","Liz",1975-11-24,NA,"Female","Asian","Korean American","POC","Urban Planner","INTP"
+"605","US0290","Erik Cardona","Erik",1981-04-13,NA,"Male",NA,"Hispanic or Latino","POC","Bartender","ENTP"
+"606","US0291","Kelly Sharbaugh","Kelly",1983-12-26,NA,"Female",NA,NA,"White","Hairstylist","ISFP"
+"607","US0292","Laura Morett","Laura M.",1969-07-30,NA,"Female",NA,NA,"White","Office Manager;Fitness Instructor","ENFJ"
+"608","US0293","John Fincher","John",1983-08-16,NA,"Male",NA,"Hispanic or Latino","POC","Rocket Scientist","INTP"
+"609","US0294","Dave Ball","Dave",1970-08-13,NA,"Male",NA,NA,"White","Fitness Instructor","INTP"
+"610","US0295","Monica Padilla","Monica",1984-07-14,NA,"Female",NA,"Hispanic or Latino","POC","Law Student","ENFP"
+"611","US0296","Shannon Waters","Shambo",1964-04-25,NA,"Female",NA,NA,"White","Sales","ESFP"
+"612","US0297","Jaison Robinson","Jaison",1980-09-25,NA,"Male","Black",NA,"POC","Law Student","INTJ"
+"613","US0298","Brett Clouser","Brett",1985-12-27,NA,"Male",NA,NA,"White","T-Shirt Designer","ISFP"
+"614","US0299","Mick Trimming","Mick",1976-05-10,NA,"Male",NA,NA,"White","Doctor","INTP"
+"615","US0300","Russell Hantz","Russell H.",1972-10-10,NA,"Male",NA,NA,"White","Oil Company Owner","ESTJ"
+"616","US0301","Natalie White","Natalie",1983-04-22,NA,"Female",NA,NA,"White","Pharmaceutical Sales","ISFJ"
+"617","US0302","Wendy-Jo DeSmidt-Kohlhoff","Wendy",1961-12-13,NA,"Female",NA,NA,"White","Goat Rancher","ISFP"
+"618","US0303","Shannon Elkins","Shannon",1979-12-04,NA,"Male",NA,NA,"White","Pest Control Company Owner","ESTJ"
+"619","US0304","Jimmy Johnson","Jimmy J.",1943-07-16,NA,"Male",NA,NA,"White","Former NFL Coach","ESFJ"
+"620","US0305","James Tarantino","Jimmy T.",1962-09-07,NA,"Male",NA,NA,"White","Commercial Fisherman","ESTP"
+"621","US0306","Tyrone Davis","Tyrone",1967-09-24,NA,"Male","Black",NA,"POC","Fire Captain","ESTJ"
+"622","US0307","Kelly Bruno","Kelly B.",1984-03-23,NA,"Female",NA,NA,"White","Medical Student","ISFP"
+"623","US0308","Yve Rojas","Yve",1969-03-09,NA,"Female",NA,"Hispanic or Latino","POC","Homemaker","ISFJ"
+"624","US0309","Jill Behm","Jill",1967-01-18,NA,"Female",NA,NA,"White","ER Doctor","ISTJ"
+"625","US0310","Alina Wilson","Alina",1987-02-20,NA,"Female",NA,NA,"White","Art Student","INFP"
+"626","US0311","Marty Piombo","Marty",1961-11-11,NA,"Male",NA,NA,"White","Technology Executive","ENTJ"
+"627","US0312","Brenda Lowe","Brenda",1982-11-03,NA,"Female","Asian","Hispanic or Latino","POC","Paddleboard Company Owner","INTJ"
+"628","US0313","NaOnka Mixon","NaOnka",1983-02-17,NA,"Female","Black",NA,"POC","PE Teacher","ESTP"
+"629","US0314","Kelly Shinn","Purple Kelly",1990-05-05,NA,"Female",NA,NA,"White","Nursing Student","ENFP"
+"630","US0315","Ben Henry","Benry",1986-06-25,NA,"Male",NA,NA,"White","Club Promoter","ESTP"
+"631","US0316","Jane Bright","Jane",1953-12-13,NA,"Female",NA,NA,"White","Dog Trainer","ISTP"
+"632","US0317","Dan Lembo","Dan",1946-11-05,2022-09-03,"Male",NA,NA,"White","Real Estate Executive","ISTP"
+"633","US0318","Holly Hoffman","Holly",1966-03-15,NA,"Female",NA,NA,"White","Swim Coach","ENFJ"
+"634","US0319","Matthew Lenahan","Sash",1979-11-22,NA,"Male","Black",NA,"POC","Real Estate Broker","ENTJ"
+"635","US0320","Chase Rice","Chase",1985-09-19,NA,"Male",NA,NA,"White","Pro Racecar Jackman","ISFP"
+"636","US0321","Jud Birza","Fabio",1989-06-12,NA,"Male",NA,NA,"White","Student","ESFP"
+"637","US0322","Francesca Hogi","Francesca",1973-11-03,NA,"Female","Black",NA,"POC","Attorney","INFJ"
+"638","US0323","Matt Elrod","Matt",1988-10-02,NA,"Male",NA,NA,"White","Pre-Med Student","INFP"
+"639","US0324","Kristina Kell","Kristina",1964-12-26,NA,"Female",NA,NA,"White","Law Student","INTP"
+"640","US0325","Krista Klumpp","Krista",1985-07-27,NA,"Female",NA,NA,"White","Pharmaceutical Representative","ISFP"
+"641","US0326","Stephanie Valencia","Stephanie",1985-02-03,NA,"Female",NA,"Hispanic or Latino","POC","Waitress","ESFP"
+"642","US0327","Sarita White","Sarita",1974-10-02,NA,"Female",NA,NA,"White","Visual Effects Producer","INTP"
+"643","US0328","Mike Chiesl","Mike",1979-09-15,NA,"Male",NA,NA,"White","Iraq War Veteran","ISFJ"
+"644","US0329","David Murphy","David",1979-07-16,NA,"Male",NA,NA,"White","Defense Attorney","INTJ"
+"645","US0330","Julie Wolfe","Julie",1960-05-11,NA,"Female",NA,NA,"White","Firefighter","ISTJ"
+"646","US0331","Ralph Kiser","Ralph",1965-10-27,2022-04-20,"Male",NA,NA,"White","Farmer","ESTP"
+"647","US0332","Steve Wright","Steve",1959-04-08,NA,"Male",NA,NA,"White","Ex-NFL Player","ISFJ"
+"648","US0333","Andrea Boehlke","Andrea",1989-05-10,NA,"Female",NA,NA,"White","Student;Entertainment Host/Writer","ENFP"
+"649","US0334","Grant Mattos","Grant",1981-03-12,NA,"Male",NA,NA,"White","Ex-NFL Player","ISFP"
+"650","US0335","Ashley Underwood","Ashley",1985-02-08,NA,"Female",NA,NA,"White","Nurse","ESTP"
+"651","US0336","Natalie Tenerelli","Natalie",1991-05-06,NA,"Female",NA,NA,"White","Professional Dancer","ISFP"
+"652","US0337","Phillip Sheppard","Phillip",1958-03-12,NA,"Male","Black",NA,"POC","Former Federal Agent;Software Sales","ESTJ"
+"653","US0338","Semhar Tadesse","Semhar",1986-09-12,NA,"Female","Black","Eritrean","POC","Spoken Word Artist","ENFP"
+"654","US0339","Christine Shields Markoski","Christine",1971-06-17,NA,"Female",NA,"Hispanic or Latino","POC","Teacher","ESTP"
+"655","US0340","Mark Caruso","Papa Bear",1963-07-07,NA,"Male",NA,NA,"White","Retired NYPD Detective","ESFJ"
+"656","US0341","Stacey Powell","Stacey",1967-11-21,NA,"Female","Black",NA,"POC","Mortician","ISTJ"
+"657","US0342","Elyse Umemoto","Elyse",1984-05-10,NA,"Female","Asian","Hispanic or Latino, Native American","POC","Dance Team Manager","ENFP"
+"658","US0343","Mikayla Wingle","Mikayla",1989-05-31,NA,"Female",NA,NA,"White","Lingerie Football Player","ISFP"
+"659","US0344","Keith Tollefson","Keith",1985-10-01,NA,"Male",NA,NA,"White","Water Treatment Tech","ISFP"
+"660","US0345","Jim Rice","Jim",1975-09-14,NA,"Male",NA,NA,"White","Medical Marijuana Dispenser","ENTP"
+"661","US0346","Dawn Meehan","Dawn",1970-06-29,NA,"Female",NA,NA,"White","English Professor","ESFJ"
+"662","US0347","Whitney Duncan","Whitney",1984-08-03,NA,"Female",NA,NA,"White","Country Music Singer","ESFP"
+"663","US0348","John Cochran","Cochran",1987-01-17,NA,"Male","White","Jewish","White","Harvard Law Student","INTP"
+"664","US0349","Edna Ma","Edna",1975-08-22,NA,"Female","Asian",NA,"POC","Anesthesiologist","ISTJ"
+"665","US0350","Brandon Hantz","Brandon",1991-10-15,NA,"Male",NA,NA,"White","Oil Tanker Crewman;Chemical Disposal","ESFP"
+"666","US0351","Rick Nelson","Rick",1959-10-24,NA,"Male",NA,NA,"White","Rancher","ISFJ"
+"667","US0352","Albert Destrade","Albert",1985-03-31,NA,"Male","Black","Hispanic or Latino","POC","Baseball/Dating Coach­­­­","ENTJ"
+"668","US0353","Sophie Clarke","Sophie",1989-07-10,NA,"Female",NA,NA,"White","Medical Student;Healthcare Consultant","INTJ"
+"669","US0354","Kourtney Moon","Kourtney",1982-02-27,NA,"Female",NA,NA,"White","Motorcycle Repair","ISFP"
+"670","US0355","Nina Acosta","Nina",1960-04-03,NA,"Female",NA,NA,"White","Retired LAPD Officer","ISTJ"
+"671","US0356","Matt Quinlan","Matt",1978-04-05,NA,"Male",NA,NA,"White","Attorney","ENTJ"
+"672","US0357","Bill Posley","Bill",1983-09-28,NA,"Male","Black",NA,"POC","Stand-Up Comedian","ENFP"
+"673","US0358","Monica Culpepper","Monica",1970-06-15,NA,"Female",NA,NA,"White","Ex-NFL Player's Wife;Homemaker","ESFJ"
+"674","US0359","Colton Cumbie","Colton",1990-11-22,NA,"Male",NA,NA,"White","Student;Student Teacher","ESFP"
+"675","US0360","Jonas Otsuji","Jonas",1974-03-25,NA,"Male","Asian",NA,"POC","Sushi Chef","ENTP"
+"676","US0361","Michael Jefferson","Michael",1981-08-29,NA,"Male",NA,NA,"White","Banker","ISTJ"
+"677","US0362","Jay Byars","Jay",1986-11-05,NA,"Male",NA,NA,"White","Model","ISFP"
+"678","US0363","Leif Manson","Leif",1984-02-01,NA,"Male",NA,NA,"White","Phlebotomist","ISFP"
+"679","US0364","Troy Robertson","Troyzan",1961-07-30,NA,"Male",NA,NA,"White","Swimsuit Photographer","ESFP"
+"680","US0365","Kat Edorsson","Kat",1989-06-22,NA,"Female",NA,NA,"White","Timeshare Representative;Full Time Student/Sales","ENFP"
+"681","US0366","Greg Smith","Tarzan",1947-12-12,NA,"Male",NA,NA,"White","Plastic Surgeon","INTP"
+"682","US0367","Alicia Rosa","Alicia",1987-01-11,NA,"Female",NA,"Hispanic or Latino","POC","Special Education Teacher","ESTJ"
+"683","US0368","Christina Cha","Christina",1982-09-26,NA,"Female","Asian",NA,"POC","Career Consultant","INFP"
+"684","US0369","Chelsea Meissner","Chelsea",1985-06-13,NA,"Female",NA,NA,"White","Medical Sales","ISFP"
+"685","US0370","Sabrina Thompson","Sabrina",1978-03-06,NA,"Female","Black",NA,"POC","High School Teacher","ENFJ"
+"686","US0371","Kim Spradlin-Wolfe","Kim",1983-01-30,NA,"Female",NA,NA,"White","Bridal Shop Owner;Interior Designer","INFJ"
+"687","US0372","Zane Knight","Zane",1984-02-20,NA,"Male",NA,NA,"White","Tire Repair","ENTP"
+"688","US0373","Roxanne Morris","Roxy",1984-06-03,NA,"Female","Black",NA,"POC","Seminary Student","ESFP"
+"689","US0374","Angie Layton","Angie",1991-10-08,NA,"Female",NA,NA,"White","Model/Student","INFP"
+"690","US0375","Dana Lambert","Dana",1979-12-13,NA,"Female",NA,NA,"White","Cosmetologist","ISTP"
+"691","US0376","Sarah Dawson","Dawson",1983-11-15,NA,"Female","Black",NA,"POC","Insurance Sales","ENFP"
+"692","US0377","Katie Hanson","Katie",1989-11-29,NA,"Female",NA,NA,"White","Former Miss Delaware","ENTP"
+"693","US0378","Roberta Saint-Amour","RC",1985-05-10,NA,"Female",NA,"Jewish","White","Investment Banker","ENTJ"
+"694","US0379","Jeff Kent","Jeff",1968-03-07,NA,"Male",NA,NA,"White","Retired MLB Player","ISTP"
+"695","US0380","Artis Silvester","Artis",1959-04-18,NA,"Male","Black",NA,"POC","Computer Engineer","ISTJ"
+"696","US0381","Peter Yurkowski","Pete",1988-03-03,NA,"Male",NA,NA,"White","Engineering Graduate","INTP"
+"697","US0382","Carter Williams","Carter",1987-05-26,NA,"Male",NA,NA,"White","Track Coach","ISFP"
+"698","US0383","Abi-Maria Gomes","Abi-Maria",1979-10-21,NA,"Female","Brazilian","Hispanic or Latino","POC","Business Student","ESFP"
+"699","US0384","Malcolm Freberg","Malcolm",1987-05-07,NA,"Male",NA,NA,"White","Bartender","ENTP"
+"700","US0385","Lisa Whelchel","Lisa",1963-05-29,NA,"Female",NA,NA,"White","Former TV Teen Star","INFP"
+"701","US0386","Denise Stapley","Denise",1971-01-01,NA,"Female",NA,NA,"White","Sex Therapist","INFJ"
+"702","US0387","Alexandra Pohevitz","Allie",1987-12-24,NA,"Female",NA,NA,"White","Bartender","ESTP"
+"703","US0388","Hope Driskill","Hope",1989-07-06,NA,"Female",NA,NA,"White","Pre-Law Student","ISFP"
+"704","US0389","Shamar Thomas","Shamar",1985-09-27,NA,"Male","Black",NA,"POC","Iraq War Veteran","INFP"
+"705","US0390","Laura Alexander","Laura",1989-09-12,NA,"Female",NA,NA,"White","Administrative Officer","ENTP"
+"706","US0391","Matt Bischoff","Matt",1974-04-04,NA,"Male",NA,NA,"White","BMX Bike Sales","INFP"
+"707","US0392","Julia Landauer","Julia",1991-11-12,NA,"Female",NA,NA,"White","Racecar Driver","ISTJ"
+"708","US0393","Michael Snow","Michael",1968-08-30,NA,"Male",NA,NA,"White","Event Planner","INFJ"
+"709","US0394","Reynold Toepfer","Reynold",1982-10-06,NA,"Male",NA,NA,"White","Real Estate Sales","ESTP"
+"710","US0395","Edward Fox","Eddie",1989-04-15,NA,"Male",NA,NA,"White","Fireman/EMT","ESFP"
+"711","US0396","Sherri Biethman","Sherri",1971-09-09,NA,"Female",NA,NA,"White","Fast Food Franchisee","ESFJ"
+"712","US0397","Laura Boneham","Laura B.",1968-08-29,NA,"Female",NA,NA,"White","Merchandiser",NA
+"713","US0398","Marissa Peterson","Marissa",1991-09-25,NA,"Female","Black",NA,"POC","Student","ESTJ"
+"714","US0399","Rachel Foulger","Rachel",1979-07-28,NA,"Female",NA,NA,"White","Cocktail Waitress/Graphic Designer","ISFJ"
+"715","US0400","John Cody","John",1983-05-12,NA,"Male",NA,NA,"White","Physician, Army Orthopedic Surgery Resident","ISFJ"
+"716","US0401","Brad Culpepper","Brad",1969-05-08,NA,"Male",NA,NA,"White","Attorney/Retired NFL Player","ESTJ"
+"717","US0402","Vytas Baskauskas","Vytas",1979-12-08,NA,"Male",NA,NA,"White","Yoga Instructor/Math Professor","INFJ"
+"718","US0403","Caleb Bankston","Caleb",1987-03-26,2014-06-24,"Male",NA,NA,"White","Post Office Manager/Farmer","ISTP"
+"719","US0404","Katie Collins","Katie",1987-06-27,NA,"Female",NA,NA,"White","Hedge Fund Support","INTP"
+"720","US0405","Hayden Moss","Hayden",1986-05-27,NA,"Male",NA,NA,"White","Real Estate","ESFP"
+"721","US0406","Ciera Eastin","Ciera",1989-03-05,NA,"Female",NA,NA,"White","Cosmetology Student","INFP"
+"722","US0407","David Samson","David",1968-02-26,NA,"Male","White","Jewish","White","Miami Marlins President","ENTJ"
+"723","US0408","Garrett Adelstein","Garrett",1986-05-16,NA,"Male","White","Jewish","White","Pro Poker Player","INTP"
+"724","US0409","Brice Johnston","Brice",1986-02-20,NA,"Male","Black",NA,"POC","Social Worker","ENFP"
+"725","US0410","J'Tia Taylor","J'Tia",1981-09-01,NA,"Female","Black",NA,"POC","Nuclear Engineer","ENTJ"
+"726","US0411","Cliff Robinson","Cliff",1966-12-16,2020-08-29,"Male","Black",NA,"POC","Former NBA All-Star","ISTP"
+"727","US0412","Lindsey Ogle","Lindsey",1983-09-04,NA,"Female",NA,NA,"White","Hairstylist","ESFP"
+"728","US0413","Alexis Maxwell","Alexis",1992-03-17,NA,"Female",NA,"Hispanic or Latino","POC","Student","ENFP"
+"729","US0414","Sarah Lacina","Sarah",1984-07-09,NA,"Female",NA,NA,"White","Police Officer","ENTJ"
+"730","US0415","Morgan McLeod","Morgan",1992-07-09,NA,"Female",NA,NA,"White","Ex-NFL Cheerleader","ISFP"
+"731","US0416","LJ McKanas","LJ",1979-01-08,NA,"Male",NA,NA,"White","Horse Trainer","ISTP"
+"732","US0417","Jeremiah Wood","Jeremiah",1979-06-15,NA,"Male",NA,NA,"White","Male Model","ISFP"
+"733","US0418","Jefra Bland","Jefra",1990-07-02,NA,"Male",NA,NA,"White","Miss Kentucky Teen USA","ISFJ"
+"734","US0419","Latasha Fox","Tasha",1977-01-03,NA,"Female","Black",NA,"POC","Accountant","ENFJ"
+"735","US0420","Trish Hegarty","Trish",1965-10-09,NA,"Male",NA,NA,"White","Pilates Trainer","ENFJ"
+"736","US0421","Spencer Bledsoe","Spencer",1992-06-12,NA,"Male",NA,NA,"White","Economics Student","INTJ"
+"737","US0422","Kassandra McQuillen","Kass",1971-11-08,NA,"Female",NA,NA,"White","Attorney","INTJ"
+"738","US0423","Yung Hwang","Woo",1984-03-16,NA,"Male","Asian",NA,"POC","Martial Arts Instructor","ISFP"
+"739","US0424","Tony Vlachos","Tony",1973-09-10,NA,"Male",NA,NA,"White","Police Officer","ESTP"
+"740","US0425","Nadiya Anderson","Nadiya",1986-04-11,NA,"Female","Asian",NA,"POC","Crossfit Coach/Project Coordinator","ESFP"
+"741","US0426","Val Collins","Val",1978-11-08,NA,"Female","Black",NA,"POC","Foxboro Police Officer","INTJ"
+"742","US0427","John Rocker","John",1974-10-17,NA,"Male",NA,NA,"White","Former MLB Player","ESTP"
+"743","US0428","Drew Christy","Drew",1989-05-18,NA,"Male",NA,NA,"White","Traveling Sales Representative","ESTP"
+"744","US0429","Kelley Wentworth","Kelley",1986-06-07,NA,"Female",NA,NA,"White","Marketing Manager","ENTP"
+"745","US0430","Dale Wentworth","Dale",1959-03-07,NA,"Male",NA,NA,"White","Farmer","ISTJ"
+"746","US0431","Julie McGee","Julie",1980-01-24,NA,"Female",NA,NA,"White","Model/Owner of Spray Tan Business","ISFP"
+"747","US0432","Josh Canfield","Josh",1981-07-01,NA,"Male",NA,NA,"White","Singer/Actor/Writer","INFJ"
+"748","US0433","Jeremy Collins","Jeremy",1978-04-16,NA,"Male","Black",NA,"POC","Cambridge Firefighter","ESTJ"
+"749","US0434","Wes Nale","Wes",1990-06-19,NA,"Male",NA,NA,"White","Firefighter","ISTP"
+"750","US0435","Reed Kelly","Reed",1982-09-05,NA,"Male",NA,NA,"White","Broadway Performer/Model/Aerialist","ENTJ"
+"751","US0436","Alec Christy","Alec",1991-09-07,NA,"Male",NA,NA,"White","Student","ISFP"
+"752","US0437","Jon Misch","Jon",1988-03-29,NA,"Male",NA,NA,"White","Financial Assistant","ESFP"
+"753","US0438","Baylor Wilson","Baylor",1994-01-25,NA,"Female",NA,NA,"White","Student","ESFP"
+"754","US0439","Keith Nale","Keith",1960-08-16,NA,"Male",NA,NA,"White","Fire Captain","ISTP"
+"755","US0440","Missy Payne","Missy",1967-06-10,NA,"Female",NA,NA,"White","Competitive Cheerleading Gym Owner","ESFJ"
+"756","US0441","Jaclyn Schultz","Jaclyn",1988-08-16,NA,"Female",NA,NA,"White","Media Buyer","ESFP"
+"757","US0442","Natalie Anderson","Natalie",1986-04-11,NA,"Female","Asian",NA,"POC","Crossfit Coach/Physical Therapy Student;CrossFit Trainer","ESTP"
+"758","US0443","So Kim","So",1983-01-13,NA,"Female","Asian",NA,"POC","Retail Buyer","INTJ"
+"759","US0444","Vince Sly","Vince",1982-02-16,NA,"Male",NA,NA,"White","Coconut Vendor","INFP"
+"760","US0445","Nina Poersch","Nina",1963-01-17,NA,"Female","Asian",NA,"POC","Hearing Advocate","ISFJ"
+"761","US0446","Lindsey Cascaddan","Lindsey",1989-08-24,NA,"Female",NA,NA,"White","Hairdresser","ENFP"
+"762","US0447","Max Dawson","Max",1977-03-31,NA,"Male","White","Jewish","White","Media Consultant","ENTP"
+"763","US0448","Joaquin Souberbielle","Joaquin",1986-08-16,NA,"Male",NA,"Hispanic or Latino","POC","Marketing Director","ISTP"
+"764","US0449","Kelly Remington","Kelly",1970-04-27,NA,"Female",NA,NA,"White","State Trooper","ISTJ"
+"765","US0450","Hali Ford","Hali",1989-07-20,NA,"Female",NA,NA,"White","Law Student","INFP"
+"766","US0451","Joe Anglim","Joe",1988-09-30,NA,"Male",NA,NA,"White","Jewelry Designer;Multimedia Artist","ISFP"
+"767","US0452","Jenn Brown","Jenn",1992-01-27,NA,"Female",NA,NA,"White","Sailing Instructor","ESTP"
+"768","US0453","Shirin Oskooi","Shirin",1983-02-25,NA,"Female","Asian",NA,"POC","Yahoo! Executive","ENFP"
+"769","US0454","Tyler Fredrickson","Tyler",1981-02-26,NA,"Male",NA,NA,"White","Ex-Talent Agent Assistant","ENFP"
+"770","US0455","Dan Foley","Dan",1967-02-05,NA,"Male",NA,NA,"White","Postal Worker","ESTJ"
+"771","US0456","Sierra Dawn Thomas","Sierra",1986-12-18,NA,"Female",NA,NA,"White","Barrel Racer","ISFJ"
+"772","US0457","Rodney Lavoie Jr.","Rodney",1989-09-02,NA,"Male",NA,NA,"White","General Contractor","ESTJ"
+"773","US0458","Will Sims II","Will",1972-08-13,NA,"Male","Black",NA,"POC","YouTube Sensation","ISFP"
+"774","US0459","Carolyn Rivera","Carolyn",1961-10-07,NA,"Female",NA,NA,"White","Corporate Executive","ENTP"
+"775","US0460","Mike Holloway","Mike",1976-07-25,NA,"Male",NA,NA,"White","Oil Driller","ESTP"
+"776","US0461","Darnell Hamilton","Darnell",1988-02-08,NA,"Male","Black",NA,"POC","Postal Worker","ISFP"
+"777","US0462","Jennifer Lanzetti","Jennifer",1977-07-14,NA,"Female",NA,NA,"White","Contractor","ESTP"
+"778","US0463","Elisabeth Markham","Liz",1988-08-14,NA,"Female",NA,NA,"White","Quantitative Strategist","INTJ"
+"779","US0464","Caleb Reynolds","Caleb",1987-11-27,NA,"Male",NA,NA,"White","Army Veteran","ESFP"
+"780","US0465","Alecia Holden","Alecia",1991-08-03,NA,"Female",NA,NA,"White","Real Estate Agent","ESFP"
+"781","US0466","Anna Khait","Anna",1988-09-17,NA,"Female",NA,NA,"White","Pro Poker Player","ENFP"
+"782","US0467","Peter Baggenstos","Peter",1980-07-21,NA,"Male","Black",NA,"POC","ER Doctor","ENTJ"
+"783","US0468","Neal Gottlieb","Neal",1977-02-03,NA,"Male",NA,NA,"White","Ice Cream Entrepreneur","INTP"
+"784","US0469","Nick Maiorano","Nick",1985-01-28,NA,"Male",NA,NA,"White","Personal Trainer","INTP"
+"785","US0470","Debbie Wanner","Debbie",1965-11-21,NA,"Female",NA,NA,"White","Chemist","ENTP"
+"786","US0471","Scot Pollard","Scot",1975-02-12,NA,"Male",NA,NA,"White","Former NBA Champion","ESTJ"
+"787","US0472","Julia Sokolowski","Julia",1996-04-08,NA,"Female",NA,NA,"White","College Student","ENFP"
+"788","US0473","Kyle Jason","Jason",1984-07-16,NA,"Male",NA,NA,"White","Bounty Hunter","ESTJ"
+"789","US0474","Joseph Del Campo","Joe",1943-07-04,NA,"Male",NA,NA,"White","Former FBI Agent","ISTJ"
+"790","US0475","Cydney Gillon","Cydney",1992-09-14,NA,"Female","Black",NA,"POC","Bodybuilder","ISTP"
+"791","US0476","Tai Trang","Tai",1964-03-23,NA,"Male","Asian",NA,"POC","Gardener","INFP"
+"792","US0477","Aubry Bracco","Aubry",1985-11-14,NA,"Female",NA,NA,"White","Social Media Marketer;Marketing Director","INFJ"
+"793","US0478","Michele Fitzgerald","Michele",1990-05-05,NA,"Female",NA,NA,"White","Bartender;Business Development Manager","ESFP"
+"794","US0479","Rachel Ako","Rachel",1978-09-08,NA,"Female","Asian",NA,"POC","Recruiting Director","ENFP"
+"795","US0480","Mari Takahashi","Mari",1984-11-02,NA,"Female","Asian",NA,"POC","Gamer","ESFP"
+"796","US0481","Paul Wachter","Paul",1963-10-10,NA,"Male",NA,NA,"White","Boat Mechanic","ESTJ"
+"797","US0482","Lucy Huang","Lucy",1973-09-22,NA,"Female","Asian",NA,"POC","Dietician","ISTJ"
+"798","US0483","Ciandre Taylor","CeCe",1977-03-02,NA,"Female","Black",NA,"POC","Insurance Adjuster","ISFJ"
+"799","US0484","Jessica Figueroa","Figgy",1992-12-12,NA,"Female",NA,"Hispanic or Latino","POC","Bartender","ESFP"
+"800","US0485","Michaela Bradshaw","Michaela",1990-12-01,NA,"Female","Black",NA,"POC","Vacation Club Sales","ISTJ"
+"801","US0486","Michelle Schubert","Michelle",1988-03-11,NA,"Female",NA,NA,"White","Missionary Recruiter","INFP"
+"802","US0487","Taylor Lee Stocker","Taylor",1991-11-20,NA,"Male",NA,NA,"White","Snowboard Instructor","INFP"
+"803","US0488","Chris Hammons","Chris",1978-04-01,NA,"Male",NA,NA,"White","Trial Lawyer","ISTJ"
+"804","US0489","Jessica Lewis","Jessica",1979-02-24,NA,"Female",NA,NA,"White","Assistant District Attorney","ENFJ"
+"805","US0490","Zeke Smith","Zeke",1988-01-25,NA,"Male",NA,NA,"White","Asset Manager","INTP"
+"806","US0491","Will Wahl","Will",1997-08-12,NA,"Male",NA,NA,"White","High School Student","INTP"
+"807","US0492","Sunday Burquest","Sunday",1971-02-06,2021-04-18,"Female",NA,NA,"White","Youth Pastor","ENFJ"
+"808","US0493","Justin Starrett","Jay",1989-06-03,NA,"Male",NA,"Hispanic or Latino","POC","Real Estate Agent","ESTP"
+"809","US0494","Bret LaBelle","Bret",1973-08-20,NA,"Male",NA,NA,"White","Police Sergeant","ESFJ"
+"810","US0495","David Wright","David",1974-02-28,NA,"Male",NA,NA,"White","Television Writer","INFP"
+"811","US0496","Hannah Shapiro","Hannah",1992-02-24,NA,"Female","White","Jewish","White","Barista","ENFP"
+"812","US0497","Ken McNickle","Ken",1982-09-20,NA,"Male",NA,NA,"White","Model","ISFP"
+"813","US0498","Adam Klein","Adam",1991-01-15,NA,"Male","White","Jewish","White","Homeless Shelter Manager;Keynote Speaker and Host","ENTP"
+"814","US0499","Katrina Radke","Katrina",1970-12-17,NA,"Female",NA,NA,"White","Olympian","ENFP"
+"815","US0500","Simone Nguyen","Simone",1991-05-31,NA,"Female","Asian",NA,"POC","Diversity Advocate","INTP"
+"816","US0501","Patrick Bolton","Patrick",1992-03-06,NA,"Male",NA,NA,"White","Small Business Owner","ESTP"
+"817","US0502","Alan Ball","Alan",1985-03-29,NA,"Male","Black",NA,"POC","NFL Player","ISTP"
+"818","US0503","Roark Luskin","Roark",1989-11-30,NA,"Female",NA,NA,"White","Social Worker","ENTP"
+"819","US0504","Alexandrea Elliott","Ali",1992-11-13,NA,"Female","Black",NA,"POC","Celebrity Assistant","INFJ"
+"820","US0505","Jessica Johnston","Jessica",1987-04-05,NA,"Female",NA,NA,"White","Nurse Practitioner","ENFP"
+"821","US0506","Desiree Williams","Desi",1989-06-14,NA,"Female","Black",NA,"POC","Phyiscal Therapist","ESFJ"
+"822","US0507","Cole Medders","Cole",1992-09-18,NA,"Male",NA,NA,"White","Wilderness Therapy Guide","ISFP"
+"823","US0508","John Hilsabeck","JP",1988-06-22,NA,"Male",NA,NA,"White","Firefighter","ISFP"
+"824","US0509","Joe Mena","Joe",1983-03-15,NA,"Male",NA,"Hispanic or Latino","POC","Probation Officer","ESTJ"
+"825","US0510","Lauren Rimmer","Lauren",1982-03-06,NA,"Female",NA,NA,"White","Fisherman","ISTJ"
+"826","US0511","Ashley Nolan","Ashley",1990-09-17,NA,"Female",NA,NA,"White","Lifeguard","ESFP"
+"827","US0512","Mike Zahalsky","Mike",1973-09-11,NA,"Male","White","Jewish","White","Urologist","ENFP"
+"828","US0513","Devon Pinto","Devon",1993-03-06,NA,"Male",NA,"Hispanic or Latino","POC","Surf Instructor","INFJ"
+"829","US0514","Ryan Ulrich","Ryan",1993-09-08,NA,"Male",NA,NA,"White","Bellhop","ENFP"
+"830","US0515","Chrissy Hofbeck","Chrissy",1971-03-09,NA,"Female",NA,NA,"White","Actuary","ENTJ"
+"831","US0516","Ben Driebergen","Ben",1983-01-01,NA,"Male",NA,NA,"White","Marine;Real Estate/Stay-at-home Dad","ESFP"
+"832","US0517","Stephanie Gonzalez","Gonzalez",1991-04-22,NA,"Female",NA,"Hispanic or Latino","POC","Graphic Sales","ESTJ"
+"833","US0518","Jacob Derwin","Jacob",1995-06-01,NA,"Male","White","Jewish","White","Music Teacher","INFP"
+"834","US0519","Morgan Ricke","Morgan",1987-08-07,NA,"Female",NA,NA,"White","Marine Animal Trainer","ENFP"
+"835","US0520","Brendan Shapiro","Brendan",1976-06-17,NA,"Male",NA,NA,"White","Physical Education Teacher","ENFJ"
+"836","US0521","Stephanie Johnson","Stephanie",1982-09-10,NA,"Female",NA,NA,"White","Yoga Instructor","ENFP"
+"837","US0522","James Lim","James",1993-03-17,NA,"Male","Asian","Korean American","POC","Business Analyst","INTJ"
+"838","US0523","Bradley Kleihege","Bradley",1990-09-14,NA,"Male",NA,NA,"White","Law Student","ENTJ"
+"839","US0524","Chris Noble","Chris",1989-12-04,NA,"Male",NA,NA,"White","Male Model","ESTJ"
+"840","US0525","Libby Vincek","Libby",1992-08-24,NA,"Female",NA,NA,"White","Social Media Strategist","ESFJ"
+"841","US0526","Desiree Afuye","Desiree",1996-02-03,NA,"Female","Black",NA,"POC","Student","ESFP"
+"842","US0527","Jenna Bowman","Jenna",1993-11-10,NA,"Female",NA,NA,"White","Advertising Account Executive","ISTJ"
+"843","US0528","Michael Yerger","Michael",1998-07-20,NA,"Male",NA,NA,"White","Real Estate Agent","INFJ"
+"844","US0529","Chelsea Townsend","Chelsea",1992-05-25,NA,"Female",NA,NA,"White","EMT/Pro Cheerleader","ISFP"
+"845","US0530","Kellyn Bechtold","Kellyn",1986-11-01,NA,"Female",NA,NA,"White","Career Counselor","ESFJ"
+"846","US0531","Sebastian Noel","Sebastian",1994-07-20,NA,"Male",NA,NA,"White","Fishing Guide","ESFP"
+"847","US0532","Donathan Hurley","Donathan",1991-07-19,NA,"Male",NA,NA,"White","Caretaker","ENFP"
+"848","US0533","Angela Perkins","Angela",1974-11-02,NA,"Female",NA,NA,"White","Army Veteran","ISTJ"
+"849","US0534","Laurel Johnson","Laurel",1988-02-29,NA,"Female","Black",NA,"POC","Financial Consultant","INTP"
+"850","US0535","Domenick Abbate","Domenick",1978-10-31,NA,"Male",NA,NA,"White","Construction Supervisor","ESTP"
+"851","US0536","Wendell Holland","Wendell",1984-03-08,NA,"Male","Black",NA,"POC","Furniture Company Owner;Furniture Designer","INFJ"
+"852","US0537","Pat Cusack","Pat",1977-02-25,NA,"Male",NA,NA,"White","Maintenance Manager","ESTP"
+"853","US0538","Jessica Peet","Jessica",1998-10-22,NA,"Female",NA,NA,"White","Waitress","ENFP"
+"854","US0539","Jeremy Crawford","Jeremy",1978-04-26,NA,"Male","Black",NA,"POC","Attorney","ENFJ"
+"855","US0540","Bi Nguyen","Bi",1989-10-30,NA,"Female","Asian",NA,"POC","MMA Fighter","ISFP"
+"856","US0541","Natalia Azoqa","Natalia",1992-04-02,NA,"Female","Asian",NA,"POC","Industrial Engineer","ESTJ"
+"857","US0542","Natalie Cole","Natalie",1961-02-26,NA,"Female","Black",NA,"POC","Publishing CEO","ESTJ"
+"858","US0543","Lyrsa Torres","Lyrsa",1981-09-12,NA,"Female",NA,"Hispanic","POC","Airline Agent","ISFP"
+"859","US0544","Elizabeth Olson","Elizabeth",1987-01-22,NA,"Female",NA,NA,"White","Kitchen Staff","ESTP"
+"860","US0545","John Hennigan","John",1979-10-03,NA,"Male",NA,NA,"White","Pro Wrestler","INFJ"
+"861","US0546","Dan Rengering","Dan",1990-04-07,NA,"Male",NA,NA,"White","S.W.A.T. Officer","ESFP"
+"862","US0547","Alec Merlino","Alec",1993-10-15,NA,"Male",NA,NA,"White","Bartender","ESFP"
+"863","US0548","Carl Boudreaux","Carl",1976-10-29,NA,"Male","Black",NA,"POC","Truck Driver","ISFJ"
+"864","US0549","Gabby Pascuzzi","Gabby",1993-03-23,NA,"Female","Asian",NA,"POC","Technical Writer","INFP"
+"865","US0550","Christian Hubicki","Christian",1985-12-06,NA,"Male",NA,NA,"White","Robotics Scientist","ENFP"
+"866","US0551","Davie Rickenbacker","Davie",1987-09-14,NA,"Male","Black",NA,"POC","Social Media Manager","ENFP"
+"867","US0552","Alison Raybould","Alison",1989-07-12,NA,"Female",NA,NA,"White","Physician","ENFJ"
+"868","US0553","Kara Kay","Kara",1987-11-20,NA,"Female",NA,NA,"White","Realtor","ENFJ"
+"869","US0554","Angelina Keeley","Angelina",1989-07-06,NA,"Female",NA,"Hispanic or Latino","POC","Financial Consultant","ENTJ"
+"870","US0555","Mike White","Mike",1970-06-28,NA,"Male",NA,NA,"White","Filmmaker","INFP"
+"871","US0556","Nick Wilson","Nick",1990-06-11,NA,"Male",NA,NA,"White","Public Defender;Attorney","ENTP"
+"872","US0557","Reem Daly","Reem",1971-07-08,NA,"Female",NA,NA,"White","Sales Representative","ESTP"
+"873","US0558","Keith Sowell","Keith",1998-07-16,NA,"Male","Black",NA,"POC","Pre-Med Student","INFP"
+"874","US0559","Chris Underwood","Chris",1992-10-06,NA,"Male",NA,"Hispanic or Latino","POC","District Sales Manager","ENTP"
+"875","US0560","Rick Devens","Rick",1984-04-05,NA,"Male",NA,NA,"White","Morning News Anchor","ENTP"
+"876","US0561","Wendy Diaz","Wendy",1992-09-26,NA,"Female",NA,"Hispanic or Latino","POC","Small Business Owner","ENFP"
+"877","US0562","Eric Hafemann","Eric",1983-04-13,NA,"Male",NA,NA,"White","Firefighter","ESTP"
+"878","US0563","Julia Carter","Julia",1993-04-18,NA,"Female","Black",NA,"POC","Medical Assistant","ESFJ"
+"879","US0564","Dan DaSilva","Wardog",1980-03-31,NA,"Male",NA,NA,"White","Law Student/Former Military","ENTP"
+"880","US0565","Ron Clark","Ron",1971-10-24,NA,"Male",NA,NA,"White","Teacher",NA
+"881","US0566","Aurora McCreary","Aurora",1985-12-21,NA,"Female",NA,NA,"White","Divorce Lawyer","ISTP"
+"882","US0567","Victoria Baamonde","Victoria",1994-07-18,NA,"Female",NA,"Hispanic or Latino","POC","Waitress","INTP"
+"883","US0568","Lauren O'Connell","Lauren",1996-10-25,NA,"Female",NA,NA,"White","Student","ESFP"
+"884","US0569","Julie Rosenberg","Julie",1971-10-09,NA,"Female","White","Jewish","White","Toymaker","ENFP"
+"885","US0570","Gavin Whitson","Gavin",1994-07-20,NA,"Male",NA,NA,"White","YMCA Program Director","ISFJ"
+"886","US0571","Ronnie Bardah","Ronnie",1982-08-29,NA,"Male","Asian, Black","Jewish","POC","Professional Poker Player","ISTP"
+"887","US0572","Molly Byman","Molly",1990-10-05,NA,"Female",NA,NA,"White","Law Student","INTJ"
+"888","US0573","Vince Moua","Vince",1991-04-09,NA,"Male","Asian","Hmong","POC","Admissions Counselor","ENFP"
+"889","US0574","Chelsea Walker","Chelsea",1992-03-10,NA,"Female",NA,NA,"White","Digital Content Creator","ENTP"
+"890","US0575","Tom Laidlaw","Tom",1958-04-15,NA,"Male",NA,NA,"White","Former NHL Player","ESFJ"
+"891","US0576","Jason Linden","Jason",1986-08-04,NA,"Male","White","Jewish","White","Personal Injury Lawyer","ENTP"
+"892","US0577","Jack Nichting","Jack",1995-06-05,NA,"Male",NA,NA,"White","Graduate Student","ENFP"
+"893","US0578","Kellee Kim","Kellee",1989-10-17,NA,"Female","Asian",NA,"POC","MBA Student","INTP"
+"894","US0579","Jamal Shipman","Jamal",1985-05-09,NA,"Male","Black","Hispanic or Latino","POC","College Administrator","ENFJ"
+"895","US0580","Aaron Meredith","Aaron",1982-12-16,NA,"Male","Black",NA,"POC","Gym Owner","ESTJ"
+"896","US0581","Missy Byrd","Missy",1994-07-01,NA,"Female","Black",NA,"POC","Air Force Veteran","INTJ"
+"897","US0582","Elizabeth Beisel","Elizabeth",1992-08-18,NA,"Female",NA,NA,"White","Olympic Medalist","ENFJ"
+"898","US0583","Karishma Patel","Karishma",1981-12-07,NA,"Female","Asian",NA,"POC","Personal Injury Lawyer","INFP"
+"899","US0584","Elaine Stott","Elaine",1978-01-13,NA,"Female",NA,NA,"White","Factory Worker","ENFP"
+"900","US0585","Dan Spilo","Dan",1970-06-28,NA,"Male",NA,NA,"White","Talent Manager","ENTJ"
+"901","US0586","Janet Carbin","Janet",1959-06-15,NA,"Female",NA,NA,"White","Chief Lifeguard","ENFJ"
+"902","US0587","Lauren Beck","Lauren",1989-11-16,NA,"Female","Black",NA,"POC","Nanny","ENFP"
+"903","US0588","Noura Salman","Noura",1982-08-23,NA,"Female","Asian",NA,"POC","Entrepreneur","ENFP"
+"904","US0589","Dean Kowalski","Dean",1990-04-12,NA,"Male",NA,NA,"White","Tech Sales","ISTP"
+"905","US0590","Tommy Sheehan","Tommy",1992-10-26,NA,"Male",NA,NA,"White","4th Grade Teacher","ENFJ"
+"906","US0591","Eric Abraham","Abraham",1970-06-10,NA,"Male","Black",NA,"POC","Cyber Security Analyst","ESTJ"
+"907","US0592","Sara Wilson","Sara",1997-06-28,NA,"Female",NA,NA,"White","Healthcare Consultant","INTJ"
+"908","US0593","Heather Aldret","Heather",1969-03-01,NA,"Female",NA,NA,"White","Stay-at-home Mom","ISFJ"
+"909","US0594","Erika Casupanan","Erika",1989-07-20,NA,"Female","Asian",NA,"POC","Communications Manager","ENFP"
+"910","US0595","Genie Chen","Genie",1975-03-04,NA,"Female","Asian",NA,"POC","Grocery Clerk","ISFP"
+"911","US0596","Ricard Foye","Ricard",1989-12-04,NA,"Male",NA,"Hispanic or Latino","POC","Flight Attendant","ENTJ"
+"912","US0597","Xander Hastings","Xander",2000-08-11,NA,"Male",NA,NA,"White","App Developer","INFJ"
+"913","US0598","Evvie Jagoda","Evvie",1992-10-26,NA,"Non-binary","White","Jewish","White","Ph.D. Student","ENFP"
+"914","US0599","Danny McCray","Danny",1988-03-10,NA,"Male","Black",NA,"POC","Ex-NFL Player","INFJ"
+"915","US0600","Naseer Muttalif","Naseer",1984-06-21,NA,"Male","Asian","Sri Lankan","POC","Sales Manager","ESFJ"
+"916","US0601","Deshawn Radden","Deshawn",1995-09-17,NA,"Male","Black",NA,"POC","Medical Student","ENTP"
+"917","US0602","Brad Reese","Brad",1971-07-21,NA,"Male",NA,NA,"White","Rancher","ESFP"
+"918","US0603","Jairus Robinson","JD",2001-03-18,NA,"Male","Black",NA,"POC","College Student","ESFP"
+"919","US0604","Tiffany Seely","Tiffany",1973-12-08,NA,"Female","White","Jewish","White","Teacher","ENTP"
+"920","US0605","Sydney Segal","Sydney",1995-07-19,NA,"Female","White","Jewish","White","Law Student","ESTP"
+"921","US0606","Shantel Smith","Shan",1987-03-11,NA,"Female","Black",NA,"POC","Pastor","ENFJ"
+"922","US0607","David Voce","Voce",1986-05-01,NA,"Male",NA,NA,"White","Neurosurgeon","ENTJ"
+"923","US0608","Liana Wallace","Liana",2000-10-25,NA,"Female","Black","Jewish","POC","College Student","ESTJ"
+"924","US0609","Chanelle Howell","Chanelle",1992-08-22,NA,"Female","Black",NA,"POC","Executive Recruiter","ENTJ"
+"925","US0610","Daniel Strunk","Daniel",1991-03-26,NA,"Male",NA,NA,"White","Law Clerk","ENTP"
+"926","US0611","Drea Wheeler","Drea",1986-08-27,NA,"Female","Black",NA,"POC","Fitness Consultant","ENTJ"
+"927","US0612","Hai Giang","Hai",1992-12-31,NA,"Male","Asian","Asian American","POC","Data Scientist","INFP"
+"928","US0613","Jackson Fox","Jackson",1973-08-13,NA,"Male",NA,NA,"White","Healthcare Worker","ISFJ"
+"929","US0614","Jenny Kim","Jenny",1978-06-30,NA,"Female","Asian","Asian American","POC","Creative Director","INFJ"
+"930","US0615","Jonathan Young","Jonathan",1993-01-13,NA,"Male",NA,NA,"White","Beach Service Company Owner","ENFJ"
+"931","US0616","Lindsay Dolashewich","Lindsay",1991-02-01,NA,"Female",NA,NA,"White","Dietitian","ESFP"
+"932","US0617","Lydia Meredith","Lydia",1999-05-23,NA,"Female",NA,NA,"White","Waitress","INFP"
+"933","US0618","Marya Sherron","Marya",1974-03-26,NA,"Female",NA,NA,"White","Stay-at-home Mom","INFP"
+"934","US0619","Maryanne Oketch","Maryanne",1998-01-01,NA,"Female","Black",NA,"POC","Seminary Student","ENFP"
+"935","US0620","Mike Turner","Mike",1963-10-15,NA,"Male",NA,"Hispanic or Latino","POC","Retired Firefighter","ESFJ"
+"936","US0621","Omar Zaheer","Omar",1990-10-24,NA,"Male","Asian","Asian American","POC","Veterinarian","ENTP"
+"937","US0622","Rocksroy Bailey","Rocksroy",1978-01-12,NA,"Male","Black",NA,"POC","Stay-at-home Dad","ESTJ"
+"938","US0623","Romeo Escobar","Romeo",1984-05-10,NA,"Male",NA,"Hispanic or Latino","POC","Pageant Coach","ISFP"
+"939","US0624","Swati Goel","Swati",2002-03-20,NA,"Female","Asian","Asian American","POC","Ivy League Student","ISTJ"
+"940","US0625","Tori Meehan","Tori",1996-09-03,NA,"Female",NA,NA,"White","Therapist","ENFJ"
+"941","US0626","Zach Wurthenberger","Zach",2000-01-26,NA,"Male",NA,NA,"White","Student","INTP"
+"942","US0627","Cassidy Clark","Cassidy",1996-01-16,NA,"Female",NA,NA,"White","Designer","ESTP"
+"943","US0628","Cody Assenmacher","Cody",1986-12-09,NA,"Male",NA,NA,"White","Elevator Sales","ESFP"
+"944","US0629","Dwight Moore","Dwight",2000-08-30,NA,"Male","Black",NA,"POC","Graduate Student","ENTP"
+"945","US0630","Elie Scot","Elie",1991-08-17,NA,"Female",NA,NA,"White","Clinical Psychologist","ENFJ"
+"946","US0631","Geo Bustamante","Geo",1986-08-22,NA,"Male",NA,"Hispanic or Latino","POC","Project Manager","ISFP"
+"947","US0632","James Jones","James",1985-05-07,NA,"Male","Black",NA,"POC","Event Planner","ENFP"
+"948","US0633","Jeanine Zheng","Jeanine",1997-12-19,NA,"Female","Asian","Asian American","POC","UX Designer","ENFP"
+"949","US0634","Jesse Lopez","Jesse",1991-11-29,NA,"Male",NA,"Hispanic or Latino","POC","Polical Science PhD","INFJ"
+"950","US0635","Justine Brennan","Justine",1993-01-07,NA,"Female","Asian","Asian American","POC","Cyber Security Analyst","ESTJ"
+"951","US0636","Karla Cruz Godoy","Karla",1994-02-19,NA,"Female",NA,"Hispanic or Latino","POC","Educational Project Manager","ENTJ"
+"952","US0637","Lindsay Carmine","Lindsay",1980-01-21,NA,"Female",NA,NA,"White","Pediatric Nurse","ISTJ"
+"953","US0638","Mike Gabler","Gabler",1970-09-04,NA,"Male",NA,NA,"White","Heart Valve Specialist","ISFJ"
+"954","US0639","Morriah Young","Morriah",1993-12-03,NA,"Female","Black",NA,"POC","Teacher","ENFP"
+"955","US0640","Nneka Ejere","Nneka",1979-06-24,NA,"Female","Black",NA,"POC","Pharmacist","ESFJ"
+"956","US0641","Noelle Lambert","Noelle",1997-01-24,NA,"Female",NA,NA,"White","US Paralympian","ESTP"
+"957","US0642","Owen Knight","Owen",1992-07-10,NA,"Male","Asian","Asian American","POC","College Admissions Director","ENFP"
+"958","US0643","Ryan Medrano","Ryan",1997-08-26,NA,"Male","Black",NA,"POC","Warehouse Associate","ISFJ"
+"959","US0644","Sami Layadi","Sami",2002-10-13,NA,"Male",NA,"Hispanic or Latino","POC","Pet Cremator","ENTP"
