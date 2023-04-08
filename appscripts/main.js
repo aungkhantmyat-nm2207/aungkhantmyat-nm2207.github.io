@@ -170,67 +170,454 @@ options1.forEach(function(option1) {
         }
 
 
-        new Chart("viewership-chart",
 
-                {
-                    type: "line",
-                    data: dataObj1,
-                    
-                    options: { 
-                        responsiveness: true,   //Information on multi-axis chart from https://www.chartjs.org/docs/latest/samples/line/multi-axis.html
-                        interaction : {
-                            mode: 'index',
-                            intersact: false,
-                        },
-                        stacked: false,
-                        plugins: {
-                            title: {
-                                display: true,
-                                text: 'Chart.js Line Chart - Multi Axis'
+
+        
+                new Chart("viewership-chart",
+        
+                        {
+                            type: "line",
+                            data: dataObj1,
+                            
+                            options: { 
+                                responsiveness: true,   //Information on multi-axis chart from https://www.chartjs.org/docs/latest/samples/line/multi-axis.html
+                                interaction : {
+                                    mode: 'index',
+                                    intersact: false,
+                                },
+                                stacked: false,
+                                plugins: {
+                                    title: {
+                                        display: true,
+                                        text: 'Chart.js Line Chart - Multi Axis'
+                                    },
+                                },
+        
+                                scales: {
+                                    y1:{
+                                        type: 'linear',
+                                        display: true,
+                                        position: 'left',
+                                    },
+                                    y2: {
+                                        type: 'linear',
+                                        display: true,
+                                        position: 'right',
+                                
+                                        // grid line settings //not working :(
+                                        grid: {
+                                        drawOnChartArea: true, 
+                                    },
+                                },
                             },
-                        },
-
-                        scales: {
-                            y1:{
-                                type: 'linear',
-                                display: true,
-                                position: 'left',
+        
+                                maintainAspectRatio: true,
+                                legend: {
+                                    display: true,
+                                    align: 'center',
+                                    position: 'bottom',
+        
+                                },
+                                title: {
+                                    display: true,
+                                    text: ["Average Viewership Numbers vs Average IMDB rating", "per Season" , ""],
+                                    fontFamily: "TrebuchetMS",
+                                    fontSize: 20,
+                                    fontColor: 'rgb(0,0,0)',
+                                },
+        
+                            
                             },
-                            y2: {
-                                type: 'linear',
-                                display: true,
-                                position: 'right',
-                        
-                                // grid line settings //not working :(
-                                grid: {
-                                drawOnChartArea: true, 
-                            },
+        
                         },
-                    },
+        
+                        );
 
-                        maintainAspectRatio: true,
-                        legend: {
-                            display: true,
-                            align: 'center',
-                            position: 'bottom',
 
-                        },
-                        title: {
-                            display: true,
-                            text: ["Average Viewership Numbers vs Average IMDB rating", "per Season" , ""],
-                            fontFamily: "TrebuchetMS",
-                            fontSize: 20,
-                            fontColor: 'rgb(0,0,0)',
-                        },
 
-                    
-                    },
 
-                },
 
-                );
 
-                //Multi-axis is not working :(
+
+
+// Gender chart
+
+
+
+
+const dataObj4 = {
+    labels: labelSeasons1,          
+    datasets: [
+        {
+            label: "Female Average Placement",
+            data: [9.13,
+                8.75,
+                9.63,
+                7.50,
+                9.13,
+                8.88,
+                7.88,
+                9.11,
+                7.89,
+                10.80,
+                9.33,
+                9.75,
+                10.30,
+                12.44,
+                8.00,
+                8.10,
+                10.78,
+                9.38,
+                11.70,
+                9.80,
+                11.10,
+                11.00,
+                11.44,
+                7.89,
+                10.11,
+                11.50,
+                10.20,
+                9.11,
+                9.00,
+                10.00,
+                10.60,
+                9.22,
+                13.30,
+                9.50,
+                11.11,
+                10.90,
+                11.40,
+                10.22,
+                9.50,
+                10.40,
+                9.13,
+                10.00,
+                11.67
+                
+                ] ,
+            borderWidth: 3,
+            backgroundColor: "#fc7979",
+            borderColor: "#fc7979",
+            fill: false,
+
+        },
+
+        {
+            label: "Female Median",
+            data: Array(43).fill(9.8),
+            borderWidth: 2,
+            backgroundColor: "#fc7979",
+            borderColor: "#fc7979",
+            fill: false,
+            pointRadius: 0,
+        },
+
+
+        {
+            label: "Male Average placement",
+            data: [7.875,
+                8.25,
+                7.38,
+                9.50,
+                7.88,
+                8.13,
+                9.13,
+                9.89,
+                11.11,
+                10.20,
+                9.67,
+                7.25,
+                10.70,
+                7.70,
+                9.00,
+                12.90,
+                8.22,
+                7.63,
+                9.30,
+                11.20,
+                9.90,
+                8.00,
+                7.56,
+                11.11,
+                8.78,
+                9.40,
+                10.80,
+                9.89,
+                9.90,
+                8.75,
+                10.30,
+                9.78,
+                7.60,
+                11.50,
+                7.89,
+                10.10,
+                9.60,
+                8.78,
+                11.50,
+                10.60,
+                9.89,
+                9.00,
+                7.33,
+                
+
+                ],
+            borderWidth: 3,
+            backgroundColor: "#519ecf",
+            borderColor: "#519ecf",
+            fill: false,
+        },
+
+
+        {
+            label: "Male Median",
+            data: Array(43).fill(9.4),
+            borderWidth: 2,
+            backgroundColor: "#519ecf",
+            borderColor: "#519ecf",
+            fill: false,
+            pointRadius: 0,
+        },
+
+    ],
+}
+
+
+
+
+
+
+
+new Chart("genderChart",
+
+{
+    type: "line",
+    data: dataObj4,
+    
+    options : { 
+        responsiveness: true,   
+        interaction : {
+            mode: 'index',
+            intersact: false,
+        },
+        stacked: false,
+        
+    },
+
+        maintainAspectRatio: true,
+        legend: {
+            display: true,
+            align: 'center',
+            position: 'bottom',
+
+        },
+        title: {
+            display: true,
+            text: ["Average Viewership Numbers vs Average IMDB rating", "per Season" , ""],
+            fontFamily: "TrebuchetMS",
+            fontSize: 20,
+            fontColor: 'rgb(0,0,0)',
+        },
+        
+    
+    },
+
+
+
+);
+
+
+//Diversity Chart
+
+
+const dataObj5 = {
+    labels: labelSeasons1,          
+    datasets: [
+        {
+            label: "Number of LGBT players per season",
+            data: [2,
+                2,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                2,
+                2,
+                2,
+                0,
+                3,
+                0,
+                1,
+                4,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                2,
+                2,
+                1,
+                1,
+                2,
+                1,
+                2,
+                1,
+                1,
+                1,
+                2,
+                4,
+                2,
+                1,
+                3,
+                2,
+                3,
+                0,
+                3,
+                5,
+                2,
+                
+            ] ,
+            borderWidth: 3,
+            backgroundColor: "#b964f5",
+            borderColor: "#b964f5",
+            fill: false,
+
+        },
+
+
+        {
+            label: "Number of People of colour players per season",
+            data: [2,
+                3,
+                3,
+                2,
+                3,
+                3,
+                3,
+                2,
+                1,
+                3,
+                2,
+                3,
+                15,
+                15,
+                4,
+                5,
+                6,
+                4,
+                7,
+                3,
+                5,
+                3,
+                7,
+                5,
+                5,
+                4,
+                2,
+                6,
+                4,
+                5,
+                7,
+                4,
+                7,
+                5,
+                6,
+                5,
+                9,
+                5,
+                9,
+                5,
+                10,
+                11,
+                13,
+                
+                ],
+            borderWidth: 3,
+            backgroundColor: "#d9b411",
+            borderColor: "#d9b411",
+            fill: false,
+        },
+
+
+        {
+            label: "Controversial Seasons",
+            data: [ , , , , , , , , , , , 20, 20, 20,20, , , , , , , , , , , , , , , , , , , , , , , , , , , , ,],
+            borderWidth: 1,
+            backgroundColor: "hsla(25, 86%, 72%, 0.5)",
+            borderColor: "hsla(25, 86%, 72%, 0.5)",
+            fill: true,
+            pointRadius: 0
+        },
+
+        {
+            label: "The New Era",
+            data: [ , , , , , , , , , , , , , ,, , , , , , , , , , , , , , , , , , , , , , , , , , 20, 20,20,],
+            borderWidth: 1,
+            backgroundColor: "hsla(194, 65%, 63%, 0.5)",
+            borderColor: "hsla(194, 65%, 63%, 0.5)",
+            fill: true,
+            pointRadius: 0
+        },
+
+
+    ],
+}
+
+
+
+
+
+
+
+new Chart("diversityChart",
+
+{
+    type: "line",
+    data: dataObj5,
+    
+    options : { 
+        responsiveness: true,   
+        interaction : {
+            mode: 'index',
+            intersact: false,
+        },
+        stacked: false,
+        
+    },
+
+        maintainAspectRatio: true,
+        legend: {
+            display: true,
+            align: 'center',
+            position: 'bottom',
+
+        },
+        title: {
+            display: true,
+            text: ["Average Viewership Numbers vs Average IMDB rating", "per Season" , ""],
+            fontFamily: "TrebuchetMS",
+            fontSize: 20,
+            fontColor: 'rgb(0,0,0)',
+        },
+        
+    
+    },
+
+
+
+);
+
+
+
+
+
+
+
+
+
+
 
 
 
