@@ -3,9 +3,12 @@
 
 <html lang="en">
     <head>
-        <link rel="stylesheet" type="text/css" href="css/appstyle.css">
+      <link rel="stylesheet" type="text/css" href="css/appstyle.css">
         <script defer type="text/javascript" src="appscripts/main.js"></script>
+
         <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"> </script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js'></script>
+        <script src='https://cdn.plot.ly/plotly-2.18.2.min.js'></script>
           <title>Final Project</title>
         </script>
     </head>
@@ -29,7 +32,7 @@
           <!-- Intro-->
           <div class="mainbody">
           
-            <h1 class="maindiv-header"> <br> WIP so here's a cat gif <br> <br><img src ="https://media3.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47xlb9srdo4acuvtwrlnbu99wd5d3qp1rggd2k66sf&rid=giphy.gif&ct=g" width="auto" height ="130px"> <br> </h1>
+            <br>
             <div class="maindiv-header">
               <br>
             <img src="https://upload.wikimedia.org/wikipedia/en/4/40/400px-Survivor.borneo.logo.png" width=auto height="100px"></img> <br>
@@ -38,7 +41,10 @@
   
               <div class="maindiv">
                 <p> 
-                  Survivor places a group of strangers in an isolated location, where they must provide food, fire, and shelter for themselves. The contestants compete in challenges including testing the contestants' physical ability like running and swimming or their mental abilities like puzzles and endurance challenges for rewards and immunity from elimination. The contestants are progressively eliminated from the game as they are voted out by their fellow contestants until only one remains and is given the title of "Sole Survivor" and is awarded the grand prize of US$1,000,000 
+                  Survivor is a reality TV show that puts a group of strangers in a remote area where they are required to cater for their own needs in terms of food, fire, and shelter. For prizes and immunity from elimination, 
+                  contestants participate in activities that test their physical prowess, such as running and swimming, or their mental prowess, such as puzzles and endurance trials. 
+                  The participants are gradually eliminated from the game as they are voted off by the other players, and when only one is left, that person is dubbed the "Sole Survivor" and wins the $1,000,000 grand prize.<br><br>
+                  For this datastory, the data used will be of the US version of the show.
                 </p>
               
             </div>
@@ -46,11 +52,60 @@
 
             <!-- How does the game work? -->
             <div class="maindiv-header">
-              <h1> How does the game work? </h1>
+              <h1> How does Surivor gameplay work? </h1>
             </div>
 
-              <div class="maindiv">
-                <p> Interactive Animation using Plotly </p>
+              <!-- Game slideshow code source : https://www.w3schools.com/howto/howto_js_slideshow.asp-->
+              <div class="maindiv"> 
+                <p> <!-- Slideshow container -->
+                  <div class="slideshow-container">
+                  
+                    <!-- Full-width images with number  -->
+              
+                  
+                    <div class="mySlides">
+                      <img src="resources/gameSlideshow/2.png" style="width:100%">
+                    </div>
+                  
+                    <div class="mySlides">
+                      <img src="resources/gameSlideshow/3.png" style="width:100%">
+                    </div>
+
+                    <div class="mySlides">
+                      <img src="resources/gameSlideshow/4.png" style="width:100%">
+                    </div>
+
+                    <div class="mySlides">
+                      <img src="resources/gameSlideshow/5.png" style="width:100%">
+                    </div>
+
+                    <div class="mySlides">
+                      <img src="resources/gameSlideshow/6.png" style="width:100%">
+                    </div>
+
+                    <div class="mySlides">
+                      <img src="resources/gameSlideshow/7.png" style="width:100%">
+                    </div>
+
+                    <div class="mySlides">
+                      <img src="resources/gameSlideshow/8.png" style="width:100%">
+                    </div>
+
+                    <div class="mySlides">
+                      <img src="resources/gameSlideshow/9.png" style="width:100%">
+                    </div>
+
+                    <div class="mySlides">
+                      <img src="resources/gameSlideshow/10.png" style="width:100%">
+                    </div>
+
+                    <!-- Next and previous buttons -->
+                    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                  </div>
+                  <br>
+                  
+                
               </div>
 
 
@@ -60,21 +115,19 @@
             </div>
             
             
-            <div class="maindiv">
-             <p>Survivor through its years have been shown be a fair and entertaining game with a diverse cast of players and the diversity have been steadily growing with each season.</p> 
-            </div>
 
 
             <!-- ratings and viewership -->
             <div class="maindiv-header">
-              <h1> Survivor's viewership and rating across the years</h1>
+              <h1> The show has been consistently good! </h1>
             </div>
 
 
             <div class="maindiv"> 
               <div id="canvas-container">
                 <canvas id="viewership-chart"></canvas>   <!-- Viewership chart -->
-                <p> Although the viewership of Survivor has dwindled from its early season, according to IMDB ratings, the show has been consistent with its quality.</p>
+                <p> Although the viewership of Survivor has dwindled from its early season hype, it still manage to get about 5 million average viwers per season. 
+                  Furthermore, according to IMDB ratings, the show has been consistent with its quality with the average season rating almost always hitting above 7/10.</p>
                 
                 </div>
                 </div>
@@ -83,28 +136,35 @@
 
             <!-- Overall performance of the game -->
             <div class="maindiv-header">
-              <h1> Does being male give you an adventage? </h1>
+              <h1> The gameplay is fair ! </h1>
             </div>
             
             
             <div class="maindiv">
               <div id="canvas-container">
                 <canvas id="genderChart"></canvas>  
-                <p> Although the viewership of Survivor has dwindled from its early season, according to IMDB ratings, the show has been consistent with its quality.</p>
+              </div>
+                <p>The average placing stats show the average position of male or female per season. Therefore, the higher number means the earlier elimination </p>
+                <p>Given the physical nature of the show, there is an assumption that male will do better on the show. From the statsitics however, it is shown that both male and female are on average, placed evenly, with
+                  the overall average median having only a 0.4 difference. However, there are seasons such as Season 18 or 33 where a certain sex does perfom much better than the other. This could be due to having all male 
+                  or all female alliance, such as the iconic <a href=https://survivor.fandom.com/wiki/Black_Widow_Brigade > Black Widow Brigade </a>in Survivor 16: Micronesia.
+                </p>
                 
-                </div>
             </div>
 
             <!-- Casting of minority  -->
             <div class="maindiv-header">
-            <h1> Diversity of survivor cast across seasons </h1>
+            <h1> The show is getting more diverse than ever !</h1>
           </div>
           
           
           <div class="maindiv">
             <div id="canvas-container">
               <canvas id="diversityChart"></canvas>  
-            <p>Number of POC / LGBTQ+ casted per season as line graph / stacked barchart? </p></div>
+            <p>Survivor started out less diverse with less POC players but as the show progress, it has casted a much more diverse cast.<br>
+              <br>However, an anomaly to note is that of Season 13 and 14, which had the concept of splitting the tribes by race. This was a controversial decision as it made it seem like it was a "Race War" (Blickley, 2020) and hence Season 14 did not implement this concept, although it still had the diverse cast. <br>
+              <br>The increase in the diversity of cast could also be attributed to the CBS diversity pledge (Ross, 2022) after the tradgedies of George Floyd and Beronna Taylor in 2020. Survivor after the Covid pandemic has then entered a new era - starting from S41 - that promise to be more diverse than ever.
+            </p></div>
             </div>
   
 
@@ -128,28 +188,45 @@
           
          
            <div class="maindiv-header">
-            <h1> Where has the show filmed? </h1>
+            <h1> The show has been filmed around the World! </h1>
           </div>
           
           
           <div class="maindiv">
-            World map with different locations -> click -> detail locations
+            
+            <div id='myDiv2'></div>
+            <p> Although the recent seasons of Survivor has only been filmed in Fiji, the show has filmed all around the world! With highlights including China, Gabon and Cambodia</p>
+                    
           </div>
           
           <!-- Location of Contestants -->
             
            
           <div class="maindiv-header">
-            <h1> Where are the contestants from? </h1>
+            <h1> Where are these contestants from? </h1>
           </div>
           
           
           <div class="maindiv">
-            <iframe title="Where are the contestants from?" aria-label="Map" id="datawrapper-chart-OIyG3" src="https://datawrapper.dwcdn.net/OIyG3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="456" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-            </script>
-            I need to figure out how to make the data show up 
+            
+            <div id='myDiv'></div>
+            <p> The highest number of players come from more urbanised states such as California and New York. </p>
+                    
           </div>
 
+
+
+          <!-- Seasons with highest average rating -->
+          <div class="maindiv-header">
+            <h1>Which seasons should I start watching? </h1>
+          </div>
+
+            <div class="maindiv">
+              <div id="canvas-container"> 
+                <canvas id="seasonRanking" width="1000" height="500"></canvas>
+                <p> Although Survivor Cambodia and Winners at War are rated the highest, they are <b>both returnee seasons and therefore not suitable for first time viewing.</b><br><br> Therefore, <b>Season 7 : Pearl Islands and Season 28: Cagayan</b> are recommended for new viewers</p>
+            </div>
+          </div>
 
             
 
@@ -161,35 +238,24 @@
                   <div class="maindiv">
                     <div id="canvas-container"> 
                       <canvas id="topEpisodesRating" width="1000" height="500"></canvas>
-                      <p> To Do : Add custom tooltip that links back to IMDB page of each episode</p>
+                      <p> Although it is recommened that you watch the seasons starting from episode 1, these are the few episodes that are ranked very high in the IMDB rating</p>
                   </div>
                 </div>
 
 
-            <!-- Seasons with highest average rating -->
-            <div class="maindiv-header">
-              <h1> Which Seasons to watch? </h1>
-            </div>
-
-              <div class="maindiv">
-                <div id="canvas-container"> 
-                  <canvas id="seasonRanking" width="1000" height="500"></canvas>
-                  <p> Although Survivor Cambodia and Winners at War are rated the most highest seasons, they are both returnee seasons and therefore not suitable for first time viewing. Pearl Islands and Cagayan are therefore recommended for new viewers</p>
-                  <p> To Do : Add custom legend showing that Red border -> Returnee season, Green -> Newbie season</p>
-              </div>
-            </div>
-
+          
 
             <!-- Analysing Survivor Cambodia and Winners at War -->
             <div class="maindiv-header">
-              <h1> Survivor Winners at War : Which seasons did the winners play together in </h1>
+              <h1> References  </h1>
             </div>
 
               <div class="maindiv">
                 <div id="canvas-container"> 
-                  <p> Survivor 40: Winners at War was unique as the previous winners were invited to play again</p>
-                  <p> Many of the winners have played together before in different seasons so I want to use <a href = "https://www.youtube.com/watch?v=y2-sgZh49dQ style=" style="color:red"> force directed graph </a> to showcase that </p>
-                  
+                  <p align="left"> Blickley. (2020, July 1). Revisiting The Race Wars Season Of “Survivor.” HuffPost. <br> &#160 &#160 &#160 &#160 Retrieved April 15, 2023, from <br>  &#160 &#160 &#160 &#160 https://www.huffpost.com/entry/survivor-cook-islands-race-cbs_n_5ef4b995c5b615e5cd3a3c6f</p>
+                  <p align="left"> Ross. (2022, September 21). Jeff Probst says CBS diversity pledge “forever changed Survivor.”<br> &#160 &#160 &#160 &#160 EW.com. https://ew.com/tv/survivor-43-premiere-jeff-probst-cbs-diversity-casting-pledge/</p>
+                  <p align="left"> Veiner, J. (2023). Survivor (CBS) Dataset [Data set]. <br> &#160 &#160 &#160 &#160 https://www.kaggle.com/datasets/justinveiner/survivor-cbs-dataset?select=season_table.csv</p>
+                  <p align="left"> Oehm, D. & Sozer, U. (2023). survivoR [Data set]. https://github.com/doehm/survivoR </p>
               </div>
             </div>
     

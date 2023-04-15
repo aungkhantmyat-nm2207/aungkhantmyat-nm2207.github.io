@@ -1,5 +1,5 @@
   
-  /* CSS sheet using flexbox -> https://css-tricks.com/snippets/css/a-guide-to-flexbox/ as recommended by my partner */
+  /* CSS sheet using flexbox -> https://css-tricks.com/snippets/css/a-guide-to-flexbox/ as recommended by my coding partner Niik :) */
 
     /*black background*/
   html, body {
@@ -110,20 +110,6 @@
         color: rgb(189, 35, 35);
       }
 
-  /* Main Quiz Classes */
-
-  .quiz .option {
-    cursor: pointer;
-    padding: 10px;
-    margin: 5px;
-    border: 1px solid gray;
-    border-radius: 30px;
-  }
-  
-  .quiz .option:hover {
-    background-color: rgb(245, 143, 75);
-  }
-
 
 
 
@@ -181,3 +167,69 @@
       }
 
     
+      .maindiv a {
+        color: rgb(189, 35, 35);
+      }
+
+/* slideshow orignal code sourced from : https://www.w3schools.com/howto/howto_js_slideshow.asp */
+
+    /* Slideshow container */
+    .slideshow-container {
+      position: relative;
+      margin: auto;
+    }
+
+
+    /* Next & previous buttons */
+    .prev, .next {
+      cursor: pointer;
+      position: absolute;
+      top: 50%;
+      width: auto;
+      margin-top: -22px;
+      padding: 16px;
+      color: white;
+      font-weight: bold;
+      font-size: 18px;
+      transition: 0.6s ease;
+      user-select: none;
+    }
+
+
+
+    /* Positioning the "next button" to the right & adjusting the radius*/
+    .next {
+      right: 0;
+      border-radius: 5px 0 0 5px;
+    }
+
+
+    /* Positioning the "prev button" to the left & adjusting the radius */
+    .prev {
+        left: 0;
+        border-radius: 0 5px 5px 0;
+    }
+
+
+    /* On hover, add a background*/
+    .prev:hover, .next:hover {
+      background-color: rgba(206, 142, 90, 0.8);
+    }
+
+
+
+/* Main Quiz Classes */
+
+  .quiz .option {
+
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid gray;
+    border-radius: 30px;
+  }
+  
+  .quiz .option:hover {
+    background-color: rgb(245, 143, 75);
+    cursor: pointer;
+  }
+
